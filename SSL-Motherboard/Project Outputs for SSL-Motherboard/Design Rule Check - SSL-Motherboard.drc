@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\enzog\Documents\GitHub\SSL-Hardware\SSL-Motherboard\SSL-Motherboard.PcbDoc
-Date     : 8/23/2021
-Time     : 3:22:12 PM
+PCB File : C:\Users\Gabriel\OneDrive\Documentos\Trabalhos IME\Extras\RoboIME\SSL\SSL-Hardware\SSL-Motherboard\SSL-Motherboard.PcbDoc
+Date     : 2021-08-23
+Time     : 19:26:10
 
 Processing Rule : Clearance Constraint (Gap=0.198mm) (All),(All)
 Rule Violations :0
@@ -21,7 +21,7 @@ Rule Violations :0
 Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=10mm) (All)
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=10mm) (All)
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
@@ -56,4 +56,4 @@ Rule Violations :0
 
 Violations Detected : 11
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
