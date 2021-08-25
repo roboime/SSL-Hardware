@@ -276,163 +276,75 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=PDNAnalyzer_Output\SSL-Motherboard\ODBTemp\odb\steps\pcb\layers\comp_+_bot\components
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=PDNAnalyzer_Output\SSL-Motherboard\ODBTemp\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=PDNAnalyzer_Output\SSL-Motherboard\ODBTemp\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Outputs for SSL-Motherboard\Design Rule Check - SSL-Motherboard.html
 DItemRevisionGUID=
 
-[GeneratedDocument5]
-DocumentPath=PDNAnalyzer_Output\SSL-Motherboard\ODBTemp\odb\steps\pcb\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=PDNAnalyzer_Output\SSL-Motherboard\ODBTemp\odb\steps\pcb\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=PDNAnalyzer_Output\SSL-Motherboard\ODBTemp\odb\steps\pcb\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=PDNAnalyzer_Output\SSL-Motherboard\ODBTemp\odb\steps\pcb\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=PDNAnalyzer_Output\SSL-Motherboard\ODBTemp\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=PDNAnalyzer_Output\SSL-Motherboard\ODBTemp\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=PDNAnalyzer_Output\SSL-Motherboard\ODBTemp\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=PDNAnalyzer_Output\SSL-Motherboard\ODBTemp\odb\steps\pcb\layers\keep-out_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=PDNAnalyzer_Output\SSL-Motherboard\ODBTemp\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=PDNAnalyzer_Output\SSL-Motherboard\ODBTemp\odb\steps\pcb\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=PDNAnalyzer_Output\SSL-Motherboard\ODBTemp\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=PDNAnalyzer_Output\SSL-Motherboard\ODBTemp\odb\steps\pcb\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=PDNAnalyzer_Output\SSL-Motherboard\ODBTemp\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=PDNAnalyzer_Output\SSL-Motherboard\ODBTemp\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=PDNAnalyzer_Output\SSL-Motherboard\ODBTemp\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument20]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for SSL-Motherboard\SSL-Motherboard.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for SSL-Motherboard\SSL-Motherboard.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for SSL-Motherboard\SSL-Motherboard.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for SSL-Motherboard\SSL-Motherboard.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for SSL-Motherboard\SSL-Motherboard.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for SSL-Motherboard\SSL-Motherboard.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for SSL-Motherboard\SSL-Motherboard.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for SSL-Motherboard\SSL-Motherboard.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for SSL-Motherboard\SSL-Motherboard.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for SSL-Motherboard\SSL-Motherboard.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for SSL-Motherboard\SSL-Motherboard.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for SSL-Motherboard\SSL-Motherboard.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for SSL-Motherboard\SSL-Motherboard.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for SSL-Motherboard\SSL-Motherboard.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument34]
-DocumentPath=PDNAnalyzer_Output\SSL-Motherboard\ODBTemp\SSL-Motherboard.REP
-DItemRevisionGUID=
-
-[GeneratedDocument35]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for SSL-Motherboard\SSL-Motherboard.REP
 DItemRevisionGUID=
 
-[GeneratedDocument36]
-DocumentPath=PDNAnalyzer_Output\SSL-Motherboard\ODBTemp\odb\user\SSL-Motherboard.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument37]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for SSL-Motherboard\SSL-Motherboard.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for SSL-Motherboard\SSL-Motherboard.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=PDNAnalyzer_Output\SSL-Motherboard\ODBTemp\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=PDNAnalyzer_Output\SSL-Motherboard\ODBTemp\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Configuration1]
