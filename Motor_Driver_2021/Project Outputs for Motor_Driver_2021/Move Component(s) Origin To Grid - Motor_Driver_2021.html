@@ -1,0 +1,263 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<style type="text/css">
+		h1, h2, h3, h4, h5, h6 { 
+			font-family : segoe ui;
+			color : black;
+			background-color : #EDE7D9;
+			padding: 0.3em;
+		}
+
+		h1 {
+			font-size: 1.2em;
+		}		
+
+		h2 {
+			font-size: 1.2em;
+		}
+
+		body { 
+			font-family : segoe ui;
+		}
+
+		td, th {  
+			padding: 0.5em;
+			text-align : left;
+		}
+		th { 
+			background-color : #EEEEEE;
+		
+		}
+		th.column1, td.column1 { 
+			width : 50%; 
+		}
+
+        th.column2, td.column2 {
+            width : 25%;
+        }
+
+		table { 
+			width : 100%; 
+            font-size: 0.9em;
+		}
+		.front_matter, .front_matter_column1, .front_matter_column2, .front_matter_column3
+		{
+			left : 0;
+			top : 0;
+			padding: 0em;
+			padding-top : 0.1em;
+			border : 0px solid black;
+			width : 100%;
+			vertical-align: top;
+			text-align: left;
+		}
+
+		.front_matter_column1 {
+			width : 5em;
+			font-weight: bold;
+		}
+
+		.front_matter_column2 {
+			width: 0.1em;
+		}
+
+		.front_matter_column3 {
+			width : auto;
+		}
+
+		.total_column1, .total_column {
+			font-weight : bold;
+		}
+		.total_column1 {
+			text-align : left;
+		}
+		.warning, .error { 
+			color : red;
+			font-weight : bold;
+		}	
+		tr.onmouseout_odd { 
+			background-color : #white;
+		}
+		tr.onmouseout_even { 
+			background-color : #FAFAFA;
+		}
+		tr.onmouseover_odd, tr.onmouseover_even { 
+			background-color : #EEEEEE;
+		} 
+		a:link, a:visited, .q a:link,.q a:active,.q {
+			color: #21489e; 
+		}
+		a:link.callback, a:visited.callback { 
+			color: #21489e;
+		}
+		a:link.customize, a:visited.customize {
+			color: #C0C0C0;
+			position: absolute; 
+			right: 10px;
+		}	
+		p.contents_level1 {
+			font-weight : bold;
+			font-size : 110%;
+			margin : 0.5em;
+		}
+		p.contents_level2 {
+			position : relative;
+			left : 20px;
+			margin : 0.5em;
+		}
+	</style><script type="text/javascript">
+		function coordToMils(coord) {
+			var number = coord / 10000;
+			
+			if (number != number.toFixed(3))
+				number = number.toFixed(3);
+			
+			return number + 'mil'
+		}
+
+		function coordToMM(coord) {
+			var number = 0.0254 * coord / 10000;
+			
+			if (number != number.toFixed(4))
+				number = number.toFixed(4);
+			
+			return number + 'mm'
+		}
+	
+		function convertCoord(coordNode, units) {
+			for (var i = 0; i < coordNode.childNodes.length; i++) {
+				coordNode.removeChild(coordNode.childNodes[i]);		
+			}
+
+			var coord = coordNode.getAttribute('value');
+			if (coord != null) {
+				if (units == 'mm') {	
+					textNode = document.createTextNode(coordToMM(coord));
+					coordNode.appendChild(textNode);
+				} else if (units == 'mil') {
+					textNode = document.createTextNode(coordToMils(coord));		
+					coordNode.appendChild(textNode);	
+				}
+			}
+		}
+	
+		function convertUnits(unitNode, units) {
+			for (var i = 0; i < unitNode.childNodes.length; i++) {
+				unitNode.removeChild(unitNode.childNodes[i]);		
+			}
+		
+			textNode = document.createTextNode(units); 
+			unitNode.appendChild(textNode);
+		}
+	
+		function changeUnits(radio_input, units) {
+			if (radio_input.checked) {
+			
+				var elements = document.getElementsByName('coordinate');
+				if (elements) {
+					for (var i = 0; i < elements.length; i++) {
+						convertCoord(elements[i], units);
+					}
+				}
+	
+				var elements = document.getElementsByName('units');
+				if (elements) {
+					for (var i = 0; i < elements.length; i++) {
+						convertUnits(elements[i], units);
+					}
+				}
+			}
+		}	
+	</script><title>Move Component(s) Origin to Grid</title>
+</head>
+<body onload=""><img ALT="Altium" src="
+			file://C:\Users\Public\Documents\Altium\AD21\Templates\AD_logo.png
+		"><a href="dxpprocess://Client:SetupPreferences?Server=PCB|PageName=Reports" class="customize"><acronym title="dxpprocess://Client:SetupPreferences?Server=PCB|PageName=Reports">customize</acronym></a><h1>Move Component(s) Origin to Grid</h1>
+<table class="front_matter">
+<tr class="front_matter">
+<td class="front_matter_column1">Date:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">07/10/2021</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Time:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">00:19:32</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Elapsed Time:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">00:00:00</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Filename:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3"><a href="file:///C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc" class="file"><acronym title="C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc">C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc</acronym></a></td>
+</tr>
+</table><a name="IDDQNX2CZDUGSVNECDK5JKY3NKCPEC3KJD2XJRJDEVCF02THAJM2ZB"><h2>Components Origin</h2></a><a name="IDQRBFYL3QBPQ0JYGULC3IX0UDPOCTBMGOSEA0B0EMXCJOKBACWQOP"><table>
+<tr>
+<th style="text-align : left" colspan="1" class="warning"></th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5953.5mil|Location2.X=6603.296mil|Location1.Y=5677.953mil|Location2.Y=6022.481mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5953.5mil|Location2.X=6603.296mil|Location1.Y=5677.953mil|Location2.Y=6022.481mil|Absolute=True">Component SI7655_MBHB-SI7655DN-T1-GE3 (153.797mm,147.32mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5953.5mil|Location2.X=6603.296mil|Location1.Y=5152.953mil|Location2.Y=5497.481mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5953.5mil|Location2.X=6603.296mil|Location1.Y=5152.953mil|Location2.Y=5497.481mil|Absolute=True">Component SI7655_MAHB-SI7655DN-T1-GE3 (153.797mm,133.985mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3101.299mil|Location2.X=3521.371mil|Location1.Y=5838.583mil|Location2.Y=6021.481mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3101.299mil|Location2.X=3521.371mil|Location1.Y=5838.583mil|Location2.Y=6021.481mil|Absolute=True">SMT Small Component R4_MBHB-CRCW040210R0FKEDHP (79.248mm,149.225mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3101.299mil|Location2.X=3521.371mil|Location1.Y=5313.583mil|Location2.Y=5496.481mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3101.299mil|Location2.X=3521.371mil|Location1.Y=5313.583mil|Location2.Y=5496.481mil|Absolute=True">SMT Small Component R4_MAHB-CRCW040210R0FKEDHP (79.248mm,135.89mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4501.299mil|Location2.X=4921.371mil|Location1.Y=5838.583mil|Location2.Y=6021.481mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4501.299mil|Location2.X=4921.371mil|Location1.Y=5838.583mil|Location2.Y=6021.481mil|Absolute=True">SMT Small Component R3_MBHB-CRCW040210R0FKEDHP (114.808mm,149.225mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4501.299mil|Location2.X=4921.371mil|Location1.Y=5313.583mil|Location2.Y=5496.481mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4501.299mil|Location2.X=4921.371mil|Location1.Y=5313.583mil|Location2.Y=5496.481mil|Absolute=True">SMT Small Component R3_MAHB-CRCW040210R0FKEDHP (114.808mm,135.89mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4032.668mil|Location2.X=4453.371mil|Location1.Y=5819.646mil|Location2.Y=6021.702mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4032.668mil|Location2.X=4453.371mil|Location1.Y=5819.646mil|Location2.Y=6021.702mil|Absolute=True">SMT Small Component R2_MBHB-CRCW0402330RFKED (103.251mm,148.844mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4032.668mil|Location2.X=4453.371mil|Location1.Y=5294.646mil|Location2.Y=5496.702mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4032.668mil|Location2.X=4453.371mil|Location1.Y=5294.646mil|Location2.Y=5496.702mil|Absolute=True">SMT Small Component R2_MAHB-CRCW0402330RFKED (103.251mm,135.509mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4972.668mil|Location2.X=5383.374mil|Location1.Y=5819.646mil|Location2.Y=6021.702mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4972.668mil|Location2.X=5383.374mil|Location1.Y=5819.646mil|Location2.Y=6021.702mil|Absolute=True">SMT Small Component R1_MBHB-CRCW0402330RFKED (127.127mm,148.844mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4972.668mil|Location2.X=5383.374mil|Location1.Y=5294.646mil|Location2.Y=5496.702mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4972.668mil|Location2.X=5383.374mil|Location1.Y=5294.646mil|Location2.Y=5496.702mil|Absolute=True">SMT Small Component R1_MAHB-CRCW0402330RFKED (127.127mm,135.509mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3574.5mil|Location2.X=3984.374mil|Location1.Y=5755.016mil|Location2.Y=6024.481mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3574.5mil|Location2.X=3984.374mil|Location1.Y=5755.016mil|Location2.Y=6024.481mil|Absolute=True">Component Q1_MBHB-SIS412DN-T1-GE3 (92.456mm,148.209mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3574.5mil|Location2.X=3984.374mil|Location1.Y=5230.016mil|Location2.Y=5499.481mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3574.5mil|Location2.X=3984.374mil|Location1.Y=5230.016mil|Location2.Y=5499.481mil|Absolute=True">Component Q1_MAHB-SIS412DN-T1-GE3 (92.456mm,134.874mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5434.331mil|Location2.X=5904.355mil|Location1.Y=5616.315mil|Location2.Y=6023.481mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5434.331mil|Location2.X=5904.355mil|Location1.Y=5616.315mil|Location2.Y=6023.481mil|Absolute=True">SOIC Component IR?_MBHB-IR4427STRPBF (141.097mm,146.431mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5434.331mil|Location2.X=5904.355mil|Location1.Y=5091.315mil|Location2.Y=5498.481mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5434.331mil|Location2.X=5904.355mil|Location1.Y=5091.315mil|Location2.Y=5498.481mil|Absolute=True">SOIC Component IR?_MAHB-IR4427STRPBF (141.097mm,133.096mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2188mil|Location2.X=2727.832mil|Location1.Y=4525.005mil|Location2.Y=5014.981mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2188mil|Location2.X=2727.832mil|Location1.Y=4525.005mil|Location2.Y=5014.981mil|Absolute=True">SIP Component CON-MOTOR-22032041 (56.769mm,119.888mm) on Top Layer</acronym></a> - Component origin is already ON grid.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2763.494mil|Location2.X=3123.39mil|Location1.Y=4480.005mil|Location2.Y=4970.481mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2763.494mil|Location2.X=3123.39mil|Location1.Y=4480.005mil|Location2.Y=4970.481mil|Absolute=True">SIP Component CON-MC-22032041 (71.374mm,118.745mm) on Top Layer</acronym></a> - Component origin is already ON grid.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2631.5mil|Location2.X=3051.371mil|Location1.Y=5563.976mil|Location2.Y=6022.481mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2631.5mil|Location2.X=3051.371mil|Location1.Y=5563.976mil|Location2.Y=6022.481mil|Absolute=True">SMT Small Component C2_MBHB-T491D475M050AT (69.342mm,146.05mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2631.5mil|Location2.X=3051.371mil|Location1.Y=5038.976mil|Location2.Y=5497.481mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2631.5mil|Location2.X=3051.371mil|Location1.Y=5038.976mil|Location2.Y=5497.481mil|Absolute=True">SMT Small Component C2_MAHB-T491D475M050AT (69.342mm,132.715mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2170.394mil|Location2.X=2580.374mil|Location1.Y=5825.709mil|Location2.Y=6024.481mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2170.394mil|Location2.X=2580.374mil|Location1.Y=5825.709mil|Location2.Y=6024.481mil|Absolute=True">SMT Small Component C1_MBHB-CL05B104KO5NNNC (55.753mm,149.098mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2170.394mil|Location2.X=2580.374mil|Location1.Y=5300.709mil|Location2.Y=5499.481mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\Lenovo\Desktop\RoboIME\ELO\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2170.394mil|Location2.X=2580.374mil|Location1.Y=5300.709mil|Location2.Y=5499.481mil|Absolute=True">SMT Small Component C1_MAHB-CL05B104KO5NNNC (55.753mm,135.763mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br></body>
+</html>

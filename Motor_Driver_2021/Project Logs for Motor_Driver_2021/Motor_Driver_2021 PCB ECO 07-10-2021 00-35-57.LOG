@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=IR?_MAHB NewDesignator=IR4427_MAHB
+Change Component Designator: OldDesignator=IR?_MBHB NewDesignator=IR4427_MBHB
+Change Net Name : Old Net Name=NetIR?_MAHB_2 New Net Name=NetIR4427_MAHB_2
+Change Net Name : Old Net Name=NetIR?_MAHB_4 New Net Name=NetIR4427_MAHB_4
+Change Net Name : Old Net Name=NetIR?_MAHB_5 New Net Name=NetIR4427_MAHB_5
+Change Net Name : Old Net Name=NetIR?_MAHB_7 New Net Name=NetIR4427_MAHB_7
+Change Net Name : Old Net Name=NetIR?_MBHB_2 New Net Name=NetIR4427_MBHB_2
+Change Net Name : Old Net Name=NetIR?_MBHB_4 New Net Name=NetIR4427_MBHB_4
+Change Net Name : Old Net Name=NetIR?_MBHB_5 New Net Name=NetIR4427_MBHB_5
+Change Net Name : Old Net Name=NetIR?_MBHB_7 New Net Name=NetIR4427_MBHB_7
