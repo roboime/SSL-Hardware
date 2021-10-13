@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=MAOUT Pin=Q1_MAHB-9
+Removed Pin From Net: NetName=MBOUT Pin=Q1_MBHB-9
+Removed Pin From Net: NetName=MAOUT Pin=SI7655_MAHB-9
+Removed Pin From Net: NetName=MAOUT Pin=SI7655_MAHB-10
+Removed Pin From Net: NetName=MAOUT Pin=SI7655_MAHB-11
+Removed Pin From Net: NetName=MBOUT Pin=SI7655_MBHB-9
+Removed Pin From Net: NetName=MBOUT Pin=SI7655_MBHB-10
+Removed Pin From Net: NetName=MBOUT Pin=SI7655_MBHB-11
+Added Pin To Net: NetName=NetD1_MAHB_2 Pin=SI7655_MAHB-4
+Added Pin To Net: NetName=NetD1_MBHB_2 Pin=SI7655_MBHB-4
+Added Room: Name=MAHB
+Added Room: Name=MBHB
+Added Room: Name=Motor_Driver_2021
