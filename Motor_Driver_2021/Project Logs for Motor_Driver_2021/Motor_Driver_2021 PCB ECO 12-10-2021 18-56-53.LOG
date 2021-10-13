@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=MAOUT Pin=Q1_MAHB-9
+Removed Pin From Net: NetName=MBOUT Pin=Q1_MBHB-9
+Removed Pin From Net: NetName=MAOUT Pin=SI7655_MAHB-9
+Removed Pin From Net: NetName=MAOUT Pin=SI7655_MAHB-10
+Removed Pin From Net: NetName=MAOUT Pin=SI7655_MAHB-11
+Removed Pin From Net: NetName=MBOUT Pin=SI7655_MBHB-9
+Removed Pin From Net: NetName=MBOUT Pin=SI7655_MBHB-10
+Removed Pin From Net: NetName=MBOUT Pin=SI7655_MBHB-11
+Change Component Footprint: Designator=R4_MAHB Old Footprint=Panasonic_ERJ-2G_0 New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R4_MBHB Old Footprint=Panasonic_ERJ-2G_0 New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R5_MAHB Old Footprint=Panasonic_ERJ-2G_0 New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R5_MBHB Old Footprint=Panasonic_ERJ-2G_0 New Footprint=RESC1005X40N
+Change Component Designator: OldDesignator=  NewDesignator=R3_MBHB
+Change component parameters: Designator = "R4_MAHB" ("R4"); Footprint = "Panasonic_ERJ-2G_0"; UniqueID = "\DMMEKZJZ\ILTFVWZC" ("\DMMEKZJZ\ILTFVWZC")
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "P100KJCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Panasonic Electronic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJ-2GEJ104X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1005 Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ERJ-2GEJ104X/Panasonic%20Electronic%20Components/view-part/356963/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4_MBHB" ("R4"); Footprint = "Panasonic_ERJ-2G_0"; UniqueID = "\RPHHTBUZ\ILTFVWZC" ("\RPHHTBUZ\ILTFVWZC")
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "P100KJCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Panasonic Electronic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJ-2GEJ104X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1005 Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ERJ-2GEJ104X/Panasonic%20Electronic%20Components/view-part/356963/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5_MAHB" ("R5"); Footprint = "Panasonic_ERJ-2G_0"; UniqueID = "\DMMEKZJZ\EEGXFQIB" ("\DMMEKZJZ\EEGXFQIB")
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "P100KJCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Panasonic Electronic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJ-2GEJ104X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1005 Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ERJ-2GEJ104X/Panasonic%20Electronic%20Components/view-part/356963/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5_MBHB" ("R5"); Footprint = "Panasonic_ERJ-2G_0"; UniqueID = "\RPHHTBUZ\EEGXFQIB" ("\RPHHTBUZ\EEGXFQIB")
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "P100KJCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Panasonic Electronic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJ-2GEJ104X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1005 Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ERJ-2GEJ104X/Panasonic%20Electronic%20Components/view-part/356963/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=MAHB Member=Component C2_MAHB (C2) T491D475M050AT
+Added Member To Class: ClassName=MBHB Member=Component IR4427_MBHB (IR4427) IR4427STRPBF
+Added Member To Class: ClassName=MAHB Member=Component R5_MAHB (R5) ERJ-2GEJ104X
+Added Room: Name=MAHB
+Added Room: Name=MBHB
+Added Room: Name=Motor_Driver_2021

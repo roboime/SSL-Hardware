@@ -1,0 +1,12 @@
+Update Managed Component C1 From CMP-2000-05439-1[CL05B104KO5NNNC] To CMP-2000-05439-1[CL05B104KO5NNNC] in Half_Bridge.SchDoc
+Update Managed Component C2 From CMP-2000-07203-1[T491D475M050AT] To CMP-2000-07203-1[T491D475M050AT] in Half_Bridge.SchDoc
+Replace Part D1 MMBZ5240B-7-F in C:\Users\leotp\Desktop\RoboIME\SSL-Hardware\Motor_Driver_2021\Half_Bridge.SchDoc with MMBZ5240B-7-F from Diode_Diodes_MMBZ5240B-7-F_eec.SchLib
+Replace Part D1 MMBZ5240B-7-F in C:\Users\leotp\Desktop\RoboIME\SSL-Hardware\Motor_Driver_2021\Half_Bridge.SchDoc with MMBZ5240B-7-F from Diode_Diodes_MMBZ5240B-7-F_eec.SchLib
+Replace Part IR4427 IR4427 in C:\Users\leotp\Desktop\RoboIME\SSL-Hardware\Motor_Driver_2021\Half_Bridge.SchDoc with IR4427 from Schlib1.SchLib
+Replace Part Q1 SIS412DN-T1-GE3 in C:\Users\leotp\Desktop\RoboIME\SSL-Hardware\Motor_Driver_2021\Half_Bridge.SchDoc with SIS412DN-T1-GE3 from SamacSys.SchLib
+Update Managed Component R1 From CMP-2002-08523-2[CRCW0402330RFKED] To CMP-2002-08523-2[CRCW0402330RFKED] in Half_Bridge.SchDoc
+Update Managed Component R2 From CMP-2002-08523-2[CRCW0402330RFKED] To CMP-2002-08523-2[CRCW0402330RFKED] in Half_Bridge.SchDoc
+Update Managed Component R3 From CMP-2002-01154-4[ERJ-2RKF4701X] To CMP-2002-01154-4[ERJ-2RKF4701X] in Half_Bridge.SchDoc
+Replace Part R4 ERJ-2GEJ104X in C:\Users\leotp\Desktop\RoboIME\SSL-Hardware\Motor_Driver_2021\Half_Bridge.SchDoc with ERJ-2GEJ104X from Res_Panasonic_ERJ-2GEJ104X_eec.SchLib
+Replace Part R5 ERJ-2GEJ104X in C:\Users\leotp\Desktop\RoboIME\SSL-Hardware\Motor_Driver_2021\Half_Bridge.SchDoc with ERJ-2GEJ104X from Res_Panasonic_ERJ-2GEJ104X_eec.SchLib
+Replace Part SI7655 SI7655DN-T1-GE3 in C:\Users\leotp\Desktop\RoboIME\SSL-Hardware\Motor_Driver_2021\Half_Bridge.SchDoc with SI7655DN-T1-GE3 from SamacSys.SchLib

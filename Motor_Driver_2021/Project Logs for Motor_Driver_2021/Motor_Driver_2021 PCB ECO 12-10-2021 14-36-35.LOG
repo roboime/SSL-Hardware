@@ -1,0 +1,64 @@
+Added Component: Designator=Q1_MAHB(POWERPAK-1212-8)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//SIS412DN-T1-GE3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SIS412DN-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "781-SIS412DN-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=781-SIS412DN-T1-GE3"; VariantName = "[No Variations]"
+Added Component: Designator=Q1_MBHB(POWERPAK-1212-8)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//SIS412DN-T1-GE3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SIS412DN-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "781-SIS412DN-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=781-SIS412DN-T1-GE3"; VariantName = "[No Variations]"
+Added Component: Designator=SI7655_MAHB(SIS862DNT1GE3)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SI7655DN-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/si7655dn-t1-ge3/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/63617/si7655dn.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SI7655DN-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "78-SI7655DN-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SI7655DN-T1-GE3?qs=8YL4b%2FT9KqrUzqvG%2FOmMqw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=SI7655_MBHB(SIS862DNT1GE3)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SI7655DN-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/si7655dn-t1-ge3/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/63617/si7655dn.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SI7655DN-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "78-SI7655DN-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SI7655DN-T1-GE3?qs=8YL4b%2FT9KqrUzqvG%2FOmMqw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q1_MAHB-1
+Added Pin To Net: NetName=GND Pin=Q1_MAHB-2
+Added Pin To Net: NetName=GND Pin=Q1_MAHB-3
+Added Pin To Net: NetName=NetQ1_MAHB_4 Pin=Q1_MAHB-4
+Added Pin To Net: NetName=MAOUT Pin=Q1_MAHB-5
+Added Pin To Net: NetName=MAOUT Pin=Q1_MAHB-6
+Added Pin To Net: NetName=MAOUT Pin=Q1_MAHB-7
+Added Pin To Net: NetName=MAOUT Pin=Q1_MAHB-8
+Added Pin To Net: NetName=GND Pin=Q1_MBHB-1
+Added Pin To Net: NetName=GND Pin=Q1_MBHB-2
+Added Pin To Net: NetName=GND Pin=Q1_MBHB-3
+Added Pin To Net: NetName=NetQ1_MBHB_4 Pin=Q1_MBHB-4
+Added Pin To Net: NetName=MBOUT Pin=Q1_MBHB-5
+Added Pin To Net: NetName=MBOUT Pin=Q1_MBHB-6
+Added Pin To Net: NetName=MBOUT Pin=Q1_MBHB-7
+Added Pin To Net: NetName=MBOUT Pin=Q1_MBHB-8
+Added Pin To Net: NetName=NetD1_MAHB_1 Pin=SI7655_MAHB-1
+Added Pin To Net: NetName=NetD1_MAHB_1 Pin=SI7655_MAHB-2
+Added Pin To Net: NetName=NetD1_MAHB_1 Pin=SI7655_MAHB-3
+Added Pin To Net: NetName=NetD1_MAHB_2 Pin=SI7655_MAHB-4
+Added Pin To Net: NetName=MAOUT Pin=SI7655_MAHB-5
+Added Pin To Net: NetName=MAOUT Pin=SI7655_MAHB-6
+Added Pin To Net: NetName=MAOUT Pin=SI7655_MAHB-7
+Added Pin To Net: NetName=MAOUT Pin=SI7655_MAHB-8
+Added Pin To Net: NetName=NetD1_MBHB_1 Pin=SI7655_MBHB-1
+Added Pin To Net: NetName=NetD1_MBHB_1 Pin=SI7655_MBHB-2
+Added Pin To Net: NetName=NetD1_MBHB_1 Pin=SI7655_MBHB-3
+Added Pin To Net: NetName=NetD1_MBHB_2 Pin=SI7655_MBHB-4
+Added Pin To Net: NetName=MBOUT Pin=SI7655_MBHB-5
+Added Pin To Net: NetName=MBOUT Pin=SI7655_MBHB-6
+Added Pin To Net: NetName=MBOUT Pin=SI7655_MBHB-7
+Added Pin To Net: NetName=MBOUT Pin=SI7655_MBHB-8
+Added Member To Class: ClassName=MAHB Member=Component Q1_MAHB (Q1) SIS412DN-T1-GE3
+Added Member To Class: ClassName=MBHB Member=Component Q1_MBHB (Q1) SIS412DN-T1-GE3
+Added Member To Class: ClassName=MAHB Member=Component SI7655_MAHB (SI7655) SI7655DN-T1-GE3
+Added Member To Class: ClassName=MBHB Member=Component SI7655_MBHB (SI7655) SI7655DN-T1-GE3
