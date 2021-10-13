@@ -1,9 +1,9 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\leotp\Desktop\RoboIME\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc
-Date     : 12/10/2021
-Time     : 23:58:47
+Date     : 13/10/2021
+Time     : 02:45:45
 
-Processing Rule : Clearance Constraint (Gap=0.25mm) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -27,19 +27,22 @@ Rule Violations :0
 Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) ((HasFootprint('SIS862DNT1GE3') AND IsPad)),((HasFootprint('SIS862DNT1GE3') AND IsPad))
-Rule Violations :0
-
 Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) ((HasFootprint('RESC1005X40X25LL05T05') AND IsPad)),((HasFootprint('RESC1005X40X25LL05T05') AND IsPad))
-Rule Violations :0
-
-Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) ((HasFootprint('POWERPAK-1212-8') AND IsPad)),((HasFootprint('POWERPAK-1212-8') AND IsPad))
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) ((HasFootprint('CAPC1050X55X23ML05T13') AND IsPad)),((HasFootprint('CAPC1050X55X23ML05T13') AND IsPad))
 Rule Violations :0
 
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) ((HasFootprint('POWERPAK-1212-8') AND IsPad)),((HasFootprint('POWERPAK-1212-8') AND IsPad))
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) ((HasFootprint('RESC1005X40X25NL05T05') AND IsPad)),((HasFootprint('RESC1005X40X25NL05T05') AND IsPad))
+Rule Violations :0
+
 Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) ((HasFootprint('RESC1005X40N') AND IsPad)),((HasFootprint('RESC1005X40N') AND IsPad))
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) ((HasFootprint('SIS862DNT1GE3') AND IsPad)),((HasFootprint('SIS862DNT1GE3') AND IsPad))
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
