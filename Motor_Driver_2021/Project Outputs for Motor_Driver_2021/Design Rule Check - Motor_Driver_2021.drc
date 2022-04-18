@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\leotp\Desktop\RoboIME\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc
-Date     : 13/10/2021
-Time     : 18:27:05
+PCB File : C:\Users\gabri\OneDrive\Documentos\GitHub\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc
+Date     : 18/04/2022
+Time     : 18:24:18
 
 Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
 Rule Violations :0
@@ -49,10 +49,16 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
-Rule Violations :0
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad CON-MOTOR-2(11.8mm,1.27mm) on Multi-Layer And Text "SIS412DN-T1-GE3" (11.14mm,-4.623mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad CON-MOTOR-3(11.8mm,-1.27mm) on Multi-Layer And Text "SI7655_MAHB" (11.515mm,-0.851mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad CON-MOTOR-3(11.8mm,-1.27mm) on Multi-Layer And Text "SIS412DN-T1-GE3" (11.14mm,-4.623mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad CON-MOTOR-4(11.8mm,-3.81mm) on Multi-Layer And Text "SI7655_MAHB" (11.515mm,-0.851mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad CON-MOTOR-4(11.8mm,-3.81mm) on Multi-Layer And Text "SIS412DN-T1-GE3" (11.14mm,-4.623mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+Rule Violations :5
 
 Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
-Rule Violations :0
+   Violation between Silk To Silk Clearance Constraint: (0.094mm < 0.254mm) Between Text "SI7655_MBHB" (10.446mm,0.313mm) on Top Overlay And Text "SIS412DN-T1-GE3" (11.14mm,-4.623mm) on Top Overlay Silk Text to Silk Clearance [0.094mm]
+Rule Violations :1
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
@@ -61,6 +67,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 6
 Waived Violations : 0
 Time Elapsed        : 00:00:01
