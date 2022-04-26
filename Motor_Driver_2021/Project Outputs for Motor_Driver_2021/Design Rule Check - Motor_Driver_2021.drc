@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Gabriel\OneDrive\Documentos\Trabalhos IME\Extras\RoboIME\SSL\SSL-Hardware\Motor_Driver_2021\Motor_Driver_2021.PcbDoc
 Date     : 2022-04-26
-Time     : 12:28:13 PM
+Time     : 12:40:59 PM
 
 Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
 Rule Violations :0
@@ -52,22 +52,10 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) ((HasFootprint('POWERPAK-
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad CON-MOTOR-1(11.8mm,3.81mm) on Multi-Layer And Text "Q2_MAHB" (16.761mm,3.041mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.207mm < 0.254mm) Between Pad D1_MBHB-2(3.05mm,3mm) on Top Layer And Text "R4_MBHB" (1.917mm,1.903mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.207mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.209mm < 0.254mm) Between Pad D1_MBHB-3(4.95mm,3mm) on Top Layer And Text "R4_MBHB" (1.917mm,1.903mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.209mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.249mm < 0.254mm) Between Pad Q1_MAHB-1(7.01mm,5.435mm) on Bottom Layer And Text "Q2_MAHB" (16.761mm,3.041mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.249mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.206mm < 0.254mm) Between Pad Q1_MAHB-1(7.01mm,5.435mm) on Bottom Layer And Track (6.475mm,2.475mm)(6.475mm,5.525mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.206mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.249mm < 0.254mm) Between Pad Q1_MAHB-2(7.67mm,5.435mm) on Bottom Layer And Text "Q2_MAHB" (16.761mm,3.041mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.249mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.249mm < 0.254mm) Between Pad Q1_MAHB-3(8.33mm,5.435mm) on Bottom Layer And Text "Q2_MAHB" (16.761mm,3.041mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.249mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.249mm < 0.254mm) Between Pad Q1_MAHB-4(8.99mm,5.435mm) on Bottom Layer And Text "Q2_MAHB" (16.761mm,3.041mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.249mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.206mm < 0.254mm) Between Pad Q1_MAHB-4(8.99mm,5.435mm) on Bottom Layer And Track (9.525mm,2.475mm)(9.525mm,5.525mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.206mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad Q1_MAHB-5(8.99mm,2.565mm) on Bottom Layer And Text "Q2_MAHB" (16.761mm,3.041mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.206mm < 0.254mm) Between Pad Q1_MAHB-5(8.99mm,2.565mm) on Bottom Layer And Track (9.525mm,2.475mm)(9.525mm,5.525mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.206mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad Q1_MAHB-6(8.33mm,2.565mm) on Bottom Layer And Text "Q2_MAHB" (16.761mm,3.041mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad Q1_MAHB-7(7.67mm,2.565mm) on Bottom Layer And Text "Q2_MAHB" (16.761mm,3.041mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad Q1_MAHB-8(7.01mm,2.565mm) on Bottom Layer And Text "Q2_MAHB" (16.761mm,3.041mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.206mm < 0.254mm) Between Pad Q1_MAHB-8(7.01mm,2.565mm) on Bottom Layer And Track (6.475mm,2.475mm)(6.475mm,5.525mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.206mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad Q1_MAHB-9(8mm,3.443mm) on Bottom Layer And Text "Q2_MAHB" (16.761mm,3.041mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.206mm < 0.254mm) Between Pad Q1_MBHB-1(7.01mm,-1.435mm) on Top Layer And Track (6.475mm,-1.525mm)(6.475mm,1.525mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.206mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.206mm < 0.254mm) Between Pad Q1_MBHB-4(8.99mm,-1.435mm) on Top Layer And Track (9.525mm,-1.525mm)(9.525mm,1.525mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.206mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.206mm < 0.254mm) Between Pad Q1_MBHB-5(8.99mm,1.435mm) on Top Layer And Track (9.525mm,-1.525mm)(9.525mm,1.525mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.206mm]
@@ -80,14 +68,10 @@ Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
    Violation between Silk To Solder Mask Clearance Constraint: (0.206mm < 0.254mm) Between Pad Q2_MBHB-4(7.01mm,5.435mm) on Top Layer And Track (6.475mm,2.475mm)(6.475mm,5.525mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.206mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.206mm < 0.254mm) Between Pad Q2_MBHB-5(7.01mm,2.565mm) on Top Layer And Track (6.475mm,2.475mm)(6.475mm,5.525mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.206mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.206mm < 0.254mm) Between Pad Q2_MBHB-8(8.99mm,2.565mm) on Top Layer And Track (9.525mm,2.475mm)(9.525mm,5.525mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.206mm]
-Rule Violations :28
+Rule Violations :16
 
 Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "Q2_MAHB" (16.761mm,3.041mm) on Bottom Overlay And Track (6.475mm,2.475mm)(6.475mm,5.525mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "Q2_MAHB" (16.761mm,3.041mm) on Bottom Overlay And Track (9.525mm,2.475mm)(9.525mm,5.525mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "SIS412DN-T1-GE3" (10.14mm,-2.123mm) on Top Overlay And Track (9.525mm,-1.525mm)(9.525mm,1.525mm) on Top Overlay Silk Text to Silk Clearance [0mm]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "SIS412DN-T1-GE3" (10.14mm,-2.123mm) on Top Overlay And Track (9.525mm,2.475mm)(9.525mm,5.525mm) on Top Overlay Silk Text to Silk Clearance [0mm]
-Rule Violations :4
+Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
@@ -96,6 +80,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 32
+Violations Detected : 16
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
