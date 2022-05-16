@@ -1,0 +1,3 @@
+Change Component Comment: Designator=CHARGE_ENABLE Old Comment=SW-SPST New Comment=CHARGE_EN
+Change Component Comment: Designator=KICK Old Comment=SW-SPST New Comment=KICK
+Change Component Designator: OldDesignator=CON_CAP NewDesignator=(+) CON_CAP (-)

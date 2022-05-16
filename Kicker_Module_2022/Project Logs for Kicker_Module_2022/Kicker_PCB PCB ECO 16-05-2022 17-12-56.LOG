@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=CHIP_KICK_SIGNAL Pin=P1-10
+Removed Pin From Net: NetName=NetD5_1 Pin=P1-12
+Removed Pin From Net: NetName=NetL2_7 Pin=Q1-5
+Change Component Comment : Designator=R1 Old Comment=100K New Comment=NO_FIT
+Change Component Description : Designator=R1 Old Description=RES 100K OHM 1/10W 1% 0402 SMD 1 New Description=NÃO SOLDAR 100K 0402 SMD
+Added Pin To Net: NetName=NetD5_1 Pin=P1-10
+Added Pin To Net: NetName=CHIP_KICK_SIGNAL Pin=P1-12
+Added Pin To Net: NetName=NetLT3750_2 Pin=P2-7
+Change Net Name : Old Net Name=NetLT3750_2 New Net Name=DONE
