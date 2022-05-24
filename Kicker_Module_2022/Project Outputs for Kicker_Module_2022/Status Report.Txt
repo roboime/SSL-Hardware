@@ -1,24 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [Kicker_Module_2022.PrjPcb]
-   Generated File[Kicker_PCB.GTO]
-   Generated File[Kicker_PCB.GTP]
-   Generated File[Kicker_PCB.GTS]
-   Generated File[Kicker_PCB.GTL]
-   Generated File[Kicker_PCB.GBL]
-   Generated File[Kicker_PCB.GBS]
-   Generated File[Kicker_PCB.GBP]
-   Generated File[Kicker_PCB.GBO]
-   Generated File[Kicker_PCB.GKO]
-   Generated File[Kicker_PCB.GD1]
-   Generated File[Kicker_PCB.GG1]
-   Generated File[Kicker_PCB.GM]
-   Generated File[Kicker_PCB.RUL]
-   Generated File[Kicker_PCB.EXTREP]
-   Generated File[Kicker_PCB.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Kicker_Module_2022.PrjPcb]
+   Generated File[Kicker_PCB.TXT]
+   Generated File[Kicker_PCB.LDP]
+   Generated File[Kicker_PCB.DRR]
 
 
-Files Generated   : 15
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 18:17:02 On 16/05/2022
+Finished Output Generation At 19:45:45 On 16/05/2022

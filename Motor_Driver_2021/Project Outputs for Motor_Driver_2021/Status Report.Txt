@@ -1,24 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [Motor_Driver_2021.PrjPcb]
-   Generated File[Motor_Driver_2021.GTO]
-   Generated File[Motor_Driver_2021.GTP]
-   Generated File[Motor_Driver_2021.GTS]
-   Generated File[Motor_Driver_2021.GTL]
-   Generated File[Motor_Driver_2021.GBL]
-   Generated File[Motor_Driver_2021.GBS]
-   Generated File[Motor_Driver_2021.GBP]
-   Generated File[Motor_Driver_2021.GBO]
-   Generated File[Motor_Driver_2021.GM4]
-   Generated File[Motor_Driver_2021.GKO]
-   Generated File[Motor_Driver_2021.GD1]
-   Generated File[Motor_Driver_2021.GG1]
-   Generated File[Motor_Driver_2021.GM]
-   Generated File[Motor_Driver_2021.EXTREP]
-   Generated File[Motor_Driver_2021.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Motor_Driver_2021.PrjPcb]
+   Generated File[Motor_Driver_2021.TXT]
+   Generated File[Motor_Driver_2021.LDP]
+   Generated File[Motor_Driver_2021.DRR]
 
 
-Files Generated   : 15
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 18:55:11 On 16/05/2022
+Finished Output Generation At 19:15:19 On 16/05/2022
