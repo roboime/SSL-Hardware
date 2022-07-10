@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=NetC1_M0_2 Pin=FM_M0-1
+Removed Pin From Net: NetName=NetC1_M1_2 Pin=FM_M1-1
+Removed Pin From Net: NetName=NetC1_M2_2 Pin=FM_M2-1
+Removed Pin From Net: NetName=NetC1_M3_2 Pin=FM_M3-1
+Removed Member From Class: ClassName=DIRECT Member=NetFM_M0_2
+Removed Member From Class: ClassName=DIRECT Member=NetFM_M1_2
+Removed Member From Class: ClassName=DIRECT Member=NetFM_M2_2
+Removed Member From Class: ClassName=DIRECT Member=NetFM_M3_2
+Change Component Designator: OldDesignator=10uF NewDesignator=C4
+Added Component: Designator=FM_M0(FUSC3226X120N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MF-USML700-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mf-usml700-2/bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/MF-USML700-2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MF-USML700-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-MF-USML700-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/MF-USML700-2?qs=5aG0NVq1C4yrHOp1GZ5zcA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=FM_M1(FUSC3226X120N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MF-USML700-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mf-usml700-2/bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/MF-USML700-2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MF-USML700-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-MF-USML700-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/MF-USML700-2?qs=5aG0NVq1C4yrHOp1GZ5zcA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=FM_M2(FUSC3226X120N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MF-USML700-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mf-usml700-2/bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/MF-USML700-2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MF-USML700-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-MF-USML700-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/MF-USML700-2?qs=5aG0NVq1C4yrHOp1GZ5zcA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=FM_M3(FUSC3226X120N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MF-USML700-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mf-usml700-2/bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/MF-USML700-2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MF-USML700-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-MF-USML700-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/MF-USML700-2?qs=5aG0NVq1C4yrHOp1GZ5zcA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_M0_2 Pin=FM_M0-2
+Added Pin To Net: NetName=NetC1_M1_2 Pin=FM_M1-2
+Added Pin To Net: NetName=NetC1_M2_2 Pin=FM_M2-2
+Added Pin To Net: NetName=NetC1_M3_2 Pin=FM_M3-2
+Added Pin To Net: NetName=NetFM_M0_1 Pin=FM_M0-1
+Added Pin To Net: NetName=NetFM_M0_1 Pin=INA169_M0-5
+Added Pin To Net: NetName=NetFM_M0_1 Pin=R11_M0-1
+Added Net: Name=NetFM_M0_1
+Added Pin To Net: NetName=NetFM_M1_1 Pin=FM_M1-1
+Added Pin To Net: NetName=NetFM_M1_1 Pin=INA169_M1-5
+Added Pin To Net: NetName=NetFM_M1_1 Pin=R11_M1-1
+Added Net: Name=NetFM_M1_1
+Added Pin To Net: NetName=NetFM_M2_1 Pin=FM_M2-1
+Added Pin To Net: NetName=NetFM_M2_1 Pin=INA169_M2-5
+Added Pin To Net: NetName=NetFM_M2_1 Pin=R11_M2-1
+Added Net: Name=NetFM_M2_1
+Added Pin To Net: NetName=NetFM_M3_1 Pin=FM_M3-1
+Added Pin To Net: NetName=NetFM_M3_1 Pin=INA169_M3-5
+Added Pin To Net: NetName=NetFM_M3_1 Pin=R11_M3-1
+Added Net: Name=NetFM_M3_1
+Added Member To Class: ClassName=MD Member=Component INA1 INA169NA
+Added Member To Class: ClassName=DIRECT Member=Wire NetFM_M0_1
+Added Member To Class: ClassName=DIRECT Member=Wire NetFM_M1_1
+Added Member To Class: ClassName=DIRECT Member=Wire NetFM_M2_1
+Added Member To Class: ClassName=DIRECT Member=Wire NetFM_M3_1

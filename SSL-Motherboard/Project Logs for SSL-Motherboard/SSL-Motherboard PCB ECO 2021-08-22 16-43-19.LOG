@@ -1,0 +1,4 @@
+Change Component Comment : Designator=RS1 Old Comment=47R New Comment=4k7
+Change Component Comment : Designator=RL1 Old Comment=100R New Comment=47R
+Change Component Description : Designator=RL1 Old Description=RES 100 OHM 1/10W 1% 0402 SMD New Description=RES 47 OHM 1/10W 1% 0402 SMD
+Change Component Description : Designator=RS1 Old Description=RES 330 OHM 1/10W 1% 0402 SMD New Description=RES 4k7 OHM 1/10W 1% 0402 SMD

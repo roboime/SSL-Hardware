@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: D:\RoboIME\Electronic Boards\SSL\SSL_Electronic_Boards\Kicker_Module_2018\Kicker2018_PCB.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=0.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=HV|Scope=Board|Minimum=49.21
+RuleKind=Clearance|RuleName=NetLT3750_6|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=VCC/Vs|Scope=Board|Minimum=11.81

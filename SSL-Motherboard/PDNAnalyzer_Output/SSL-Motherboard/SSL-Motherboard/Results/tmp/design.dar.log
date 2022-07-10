@@ -1,0 +1,83 @@
+
+Importing C:\Users\Gabriel\OneDrive\Documentos\Trabalhos IME\Extras\RoboIME\SSL\SSL-Hardware\SSL-Motherboard\PDNAnalyzer_Output\SSL-Motherboard\SSL-Motherboard\odb.tgz... [Sun Aug 22 17:35:25 2021]
+============================================================
+Reading ODB++ database ...
+
+file not found: odb/misc/info.Z
+Reading file odb/matrix/matrix...
+Reading file odb/steps/pcb/profile...
+Reading file odb/steps/pcb/eda/data...
+Origin of ODB++ database:  Altium Designer file - Version 1.0.0.30000
+eda data: 31 packages, 105 nets.
+Reading file odb/steps/pcb/layers/top_solder/features...
+603 SWHs on layer TOP_SOLDER
+
+Reading file odb/steps/pcb/layers/top_layer/features...
+1228 SWHs on layer TOP_LAYER
+
+Reading file odb/steps/pcb/layers/bottom_layer/features...
+974 SWHs on layer BOTTOM_LAYER
+
+Reading file odb/steps/pcb/layers/bottom_solder/features...
+397 SWHs on layer BOTTOM_SOLDER
+
+Added substrate layer SUBSTRATE-1 below etch layer TOP_LAYER
+Reading file odb/steps/pcb/layers/top_solder/attrlist...
+Reading file odb/steps/pcb/layers/top_layer/attrlist...
+Reading file odb/steps/pcb/layers/bottom_layer/attrlist...
+Reading file odb/steps/pcb/layers/bottom_solder/attrlist...
+WARNING: material values were set to default due to missing information for the following layers:  'TOP_SOLDER', 'TOP_LAYER', 'BOTTOM_LAYER', 'BOTTOM_SOLDER'
+parsing drills TOP_LAYER-BOTTOM_LAYER
+Reading file odb/steps/pcb/layers/drill/features...
+Reading file odb/steps/pcb/layers/comp_+_top/components...
+Reading file odb/steps/pcb/layers/comp_+_bot/components...
+WARNING: different refdes prefixes in component group 100nF: 
+	 C7
+	 NRF_C1
+	 MC_C2
+	 MC_C1
+	 MC_C4
+	 C6
+	 MC_C3
+	 MC_C5
+	 C1
+WARNING: different refdes prefixes in component group MF-MSMF250/16X: 
+	 FM_M0
+	 FM_M2
+	 DF1
+	 FM_M1
+	 FM_M3
+WARNING: different refdes prefixes in component group 0022112022: 
+	 CON_DRIBLE1
+	 SENSOR1
+	 LED1
+INFO: 34 duplicate vertices ignored
+========================================
+INFO: Created CSV file (C:\Users\Gabriel\OneDrive\Documentos\Trabalhos IME\Extras\RoboIME\SSL\SSL-Hardware\SSL-Motherboard\PDNAnalyzer_Output\SSL-Motherboard\SSL-Motherboard\Results\tmp\design.csv) with component properties extracted from ODB++ file.
+========================================
+========================================
+Lumped-element import (C:\Users\Gabriel\OneDrive\Documentos\Trabalhos IME\Extras\RoboIME\SSL\SSL-Hardware\SSL-Motherboard\PDNAnalyzer_Output\SSL-Motherboard\SSL-Motherboard\Results\tmp\design.csv)...
+Detected ' ; ' as separator.
+
+Value-string translations:
+	0.02 ->  20.0 mOhms (R)
+	100 ->  100.0 Ohms (R)
+	100n ->  100.0 nF (C)
+	10K ->  10.0 kOhms (R)
+	10u ->  10.0 uF (C)
+	1K ->  1.0 kOhms (R)
+	1u ->  1.0 uF (C)
+	22u ->  22.0 uF (C)
+	330 ->  330.0 Ohms (R)
+	33K ->  33.0 kOhms (R)
+	4,7K ->  4.7 kOhms (R)
+	470nF ->  470.0 nF (C)
+	4K7 ->  4.7 kOhms (R)
+WARNING: column header(s) 'type' found multiple times (taking the first one)
+WARNING: unable to interpret: [empty string]
+========================================
+WARNING: There were some warnings while importing the auto-generated CSV-file 'C:\Users\Gabriel\OneDrive\Documentos\Trabalhos IME\Extras\RoboIME\SSL\SSL-Hardware\SSL-Motherboard\PDNAnalyzer_Output\SSL-Motherboard\SSL-Motherboard\Results\tmp\design.csv'. Please review the auto-generated file under Parts Editor->Load (csv).
+========================================
+Unifying library padstacks...
+Finished reading database.
+============================================================

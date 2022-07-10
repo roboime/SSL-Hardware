@@ -1,0 +1,73 @@
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=VCC Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=VCC Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=VCC Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=DZ1_M0-1
+Added Pin To Net: NetName=M0_CUR Pin=DZ1_M0-2
+Added Pin To Net: NetName=GND Pin=DZ1_M1-1
+Added Pin To Net: NetName=M1_CUR Pin=DZ1_M1-2
+Added Pin To Net: NetName=GND Pin=DZ1_M2-1
+Added Pin To Net: NetName=M2_CUR Pin=DZ1_M2-2
+Added Pin To Net: NetName=GND Pin=DZ1_M3-1
+Added Pin To Net: NetName=M3_CUR Pin=DZ1_M3-2
+Added Pin To Net: NetName=GND Pin=DZ2-1
+Added Pin To Net: NetName=D_CUR Pin=DZ2-2
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=VCC Pin=P3-2
+Added Pin To Net: NetName=I2C.SCL Pin=P3-3
+Added Pin To Net: NetName=I2C.SDA Pin=P3-4
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Pin To Net: NetName=NetR5_3 Pin=R5-3
+Added Pin To Net: NetName=NetINA169_M0_1 Pin=R16_M0-1
+Added Pin To Net: NetName=M0_CUR Pin=R16_M0-2
+Added Pin To Net: NetName=NetINA169_M1_1 Pin=R16_M1-1
+Added Pin To Net: NetName=M1_CUR Pin=R16_M1-2
+Added Pin To Net: NetName=NetINA169_M2_1 Pin=R16_M2-1
+Added Pin To Net: NetName=M2_CUR Pin=R16_M2-2
+Added Pin To Net: NetName=NetINA169_M3_1 Pin=R16_M3-1
+Added Pin To Net: NetName=M3_CUR Pin=R16_M3-2
+Added Pin To Net: NetName=NetINA1_1 Pin=R17-1
+Added Pin To Net: NetName=D_CUR Pin=R17-2
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=VCC Pin=R18-2
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=VCC Pin=R19-2
+Added Pin To Net: NetName=ID_B2 Pin=SW_id2-1
+Added Pin To Net: NetName=GND Pin=SW_id2-2
+Added Pin To Net: NetName=ID_B3 Pin=SW_id3-1
+Added Pin To Net: NetName=GND Pin=SW_id3-2
+Added Pin To Net: NetName=NetR18_1 Pin=U1-7
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Pin To Net: NetName=NetC5_1 Pin=U1-10
+Added Pin To Net: NetName=INT_MPU Pin=U1-12
+Added Pin To Net: NetName=VCC Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=NetR19_1 Pin=U1-21
+Added Pin To Net: NetName=I2C.SCL Pin=U1-23
+Added Pin To Net: NetName=I2C.SDA Pin=U1-24
+Added Member To Class: ClassName=Periféricos Member=Component C5 470nF
+Added Member To Class: ClassName=Periféricos Member=Component C6 100nF
+Added Member To Class: ClassName=Periféricos Member=Component C7 100nF
+Added Member To Class: ClassName=Periféricos Member=Component C8 1uF
+Added Member To Class: ClassName=M0 Member=Component DZ1_M0 (DZ1) MMSZ5226B
+Added Member To Class: ClassName=M1 Member=Component DZ1_M1 (DZ1) MMSZ5226B
+Added Member To Class: ClassName=M2 Member=Component DZ1_M2 (DZ1) MMSZ5226B
+Added Member To Class: ClassName=M3 Member=Component DZ1_M3 (DZ1) MMSZ5226B
+Added Member To Class: ClassName=MD Member=Component DZ2 MMSZ5226B
+Added Member To Class: ClassName=Periféricos Member=Component P3 Header 4
+Added Member To Class: ClassName=Periféricos Member=Component R5 TC33X-2-103E
+Added Member To Class: ClassName=M0 Member=Component R16_M0 (R16) 100K
+Added Member To Class: ClassName=M1 Member=Component R16_M1 (R16) 100K
+Added Member To Class: ClassName=M2 Member=Component R16_M2 (R16) 100K
+Added Member To Class: ClassName=M3 Member=Component R16_M3 (R16) 100K
+Added Member To Class: ClassName=MD Member=Component R17 100K
+Added Member To Class: ClassName=Periféricos Member=Component R18 4K7
+Added Member To Class: ClassName=Periféricos Member=Component R19 4K7
+Added Member To Class: ClassName=Periféricos Member=Component SW_id2 SWITCH TACTILE 6 x 3.5 x 4.3 mm
+Added Member To Class: ClassName=Periféricos Member=Component SW_id3 SWITCH TACTILE 6 x 3.5 x 4.3 mm
+Added Member To Class: ClassName=Periféricos Member=Component U1 BHI160B

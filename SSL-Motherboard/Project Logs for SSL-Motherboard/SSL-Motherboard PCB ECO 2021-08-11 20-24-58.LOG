@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=NetBAT_0 Pin=SW-0
+Removed Pin From Net: NetName=VBAT Pin=SW-1
+Removed Member From Class: ClassName=POWER Member=BAT
+Removed Member From Class: ClassName=POWER Member=SW
+Added Component: Designator=Q1(SON8)
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.284.001.520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "SI7655DN-T1-GE3"; VariantName = "[No Variations]"
+Added Component: Designator=R20(0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4,7K"; VariantName = "[No Variations]"
+Added Component: Designator=R21(0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4,7K"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(CS12ANW03)
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/nkk-switches-cs12anw03/70228233/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied_Number"; Value = "70228233"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CS12ANW03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cs12anw03/nkk-switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.nkkswitches.com/pdf/cs.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "NKK Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CS12ANW03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1251847"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1251847"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBAT_0 Pin=Q1-1
+Added Pin To Net: NetName=NetBAT_0 Pin=Q1-2
+Added Pin To Net: NetName=NetBAT_0 Pin=Q1-3
+Added Pin To Net: NetName=VBAT Pin=Q1-5
+Added Pin To Net: NetName=VBAT Pin=Q1-6
+Added Pin To Net: NetName=VBAT Pin=Q1-7
+Added Pin To Net: NetName=VBAT Pin=Q1-8
+Added Pin To Net: NetName=VBAT Pin=Q1-9
+Added Pin To Net: NetName=NetBAT_0 Pin=R20-2
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=NetQ1_4 Pin=Q1-4
+Added Pin To Net: NetName=NetQ1_4 Pin=R20-1
+Added Pin To Net: NetName=NetQ1_4 Pin=R21-2
+Added Net: Name=NetQ1_4
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_1 Pin=SW1-3
+Added Net: Name=NetR21_1
+Added Class: Name=PowerSwitch
+Added Member To Class: ClassName=Periféricos Member=Component LED_GREEN_L1 LED
