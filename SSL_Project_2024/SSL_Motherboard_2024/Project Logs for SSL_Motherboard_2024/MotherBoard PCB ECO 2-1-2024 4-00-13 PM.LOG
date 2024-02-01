@@ -1,0 +1,84 @@
+Added Component: Designator=U1(NEW_NUCLEO)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/NUCLEOH723ZG/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NUCLEOH723ZG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/NUCLEOH723ZG/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NUCLEOH723ZG/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin LS1-
+Added Pin To Net: NetName=NetJ4_34 Pin=U1-CN11_1
+Added Pin To Net: NetName=NetJ4_32 Pin=U1-CN11_2
+Added Pin To Net: NetName=NetMD1_12 Pin=U1-CN11_4
+Added Pin To Net: NetName=GND Pin=U1-CN11_8
+Added Pin To Net: NetName=NetJ16_02 Pin=U1-CN11_9
+Added Pin To Net: NetName=NetJ16_04 Pin=U1-CN11_11
+Added Pin To Net: NetName=3V3 Pin=U1-CN11_16
+Added Pin To Net: NetName=NetMD1_11 Pin=U1-CN11_17
+Added Pin To Net: NetName=GND Pin=U1-CN11_19
+Added Pin To Net: NetName=GND Pin=U1-CN11_20
+Added Pin To Net: NetName=NetIC3_14 Pin=U1-CN11_21
+Added Pin To Net: NetName=GND Pin=U1-CN11_22
+Added Pin To Net: NetName=NetJ11_7 Pin=U1-CN11_28
+Added Pin To Net: NetName=NetJ11_6 Pin=U1-CN11_30
+Added Pin To Net: NetName=NetMD2_6 Pin=U1-CN11_32
+Added Pin To Net: NetName=NetMD1_3 Pin=U1-CN11_35
+Added Pin To Net: NetName=NetMD1_4 Pin=U1-CN11_37
+Added Pin To Net: NetName=NetMD1_5 Pin=U1-CN11_40
+Added Pin To Net: NetName=NetJ17_02 Pin=U1-CN11_41
+Added Pin To Net: NetName=NetR21_2 Pin=U1-CN11_42
+Added Pin To Net: NetName=NetJ17_04 Pin=U1-CN11_43
+Added Pin To Net: NetName=NetJ23_04 Pin=U1-CN11_46
+Added Pin To Net: NetName=NetJ23_02 Pin=U1-CN11_47
+Added Pin To Net: NetName=GND Pin=U1-CN11_49
+Added Pin To Net: NetName=NetJ23_07 Pin=U1-CN11_50
+Added Pin To Net: NetName=NetP1_3 Pin=U1-CN11_51
+Added Pin To Net: NetName=NetP1_4 Pin=U1-CN11_53
+Added Pin To Net: NetName=NetJ2_2 Pin=U1-CN11_54
+Added Pin To Net: NetName=NetR23_2 Pin=U1-CN11_58
+Added Pin To Net: NetName=NetR22_2 Pin=U1-CN11_59
+Added Pin To Net: NetName=GND Pin=U1-CN11_60
+Added Pin To Net: NetName=NetMD2_3 Pin=U1-CN11_63
+Added Pin To Net: NetName=NetJ8_7 Pin=U1-CN11_65
+Added Pin To Net: NetName=NetJ8_6 Pin=U1-CN11_70
+Added Pin To Net: NetName=NetIC4_4 Pin=U1-CN12_1
+Added Pin To Net: NetName=NetIC4_1 Pin=U1-CN12_2
+Added Pin To Net: NetName=NetJ19_07 Pin=U1-CN12_3
+Added Pin To Net: NetName=NetJ19_02 Pin=U1-CN12_4
+Added Pin To Net: NetName=NetIC3_4 Pin=U1-CN12_5
+Added Pin To Net: NetName=GND Pin=U1-CN12_9
+Added Pin To Net: NetName=NetMD2_5 Pin=U1-CN12_11
+Added Pin To Net: NetName=NetJ13_7 Pin=U1-CN12_13
+Added Pin To Net: NetName=NetJ13_6 Pin=U1-CN12_15
+Added Pin To Net: NetName=NetMD1_6 Pin=U1-CN12_16
+Added Pin To Net: NetName=NetIC3_13 Pin=U1-CN12_17
+Added Pin To Net: NetName=NetJ19_04 Pin=U1-CN12_19
+Added Pin To Net: NetName=GND Pin=U1-CN12_20
+Added Pin To Net: NetName=NetMD2_11 Pin=U1-CN12_22
+Added Pin To Net: NetName=NetIC4_2 Pin=U1-CN12_23
+Added Pin To Net: NetName=NetMD2_13 Pin=U1-CN12_24
+Added Pin To Net: NetName=NetMD2_12 Pin=U1-CN12_27
+Added Pin To Net: NetName=NetMD2_4 Pin=U1-CN12_29
+Added Pin To Net: NetName=GND Pin=U1-CN12_32
+Added Pin To Net: NetName=BAT_REF Pin=U1-CN12_34
+Added Pin To Net: NetName=KICK_CHIP Pin=U1-CN12_36
+Added Pin To Net: NetName=NetR10_1 Pin=U1-CN12_37
+Added Pin To Net: NetName=GND Pin=U1-CN12_39
+Added Pin To Net: NetName=NetJ6_6 Pin=U1-CN12_41
+Added Pin To Net: NetName=KICK_CHARGE Pin=U1-CN12_42
+Added Pin To Net: NetName=NetJ6_7 Pin=U1-CN12_43
+Added Pin To Net: NetName=NetJ22_04 Pin=U1-CN12_46
+Added Pin To Net: NetName=NetJ17_07 Pin=U1-CN12_47
+Added Pin To Net: NetName=NetJ22_02 Pin=U1-CN12_48
+Added Pin To Net: NetName=NetP2_4 Pin=U1-CN12_50
+Added Pin To Net: NetName=NetJ16_07 Pin=U1-CN12_52
+Added Pin To Net: NetName=KICK_DONE Pin=U1-CN12_53
+Added Pin To Net: NetName=GND Pin=U1-CN12_54
+Added Pin To Net: NetName=NetJ22_07 Pin=U1-CN12_56
+Added Pin To Net: NetName=KICK_LOW Pin=U1-CN12_58
+Added Pin To Net: NetName=NetMD1_13 Pin=U1-CN12_59
+Added Pin To Net: NetName=NetP2_3 Pin=U1-CN12_60
+Added Pin To Net: NetName=GND Pin=U1-CN12_63
+Added Member To Class: ClassName=Main Member=Component U1 NUCLEOH723ZG
