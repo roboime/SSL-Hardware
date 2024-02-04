@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=5V Pin=J6-1
+Removed Pin From Net: NetName=GND Pin=J6-5
+Removed Pin From Net: NetName=NetJ6_3 Pin=J16-03
+Removed Pin From Net: NetName=NetJ6_2 Pin=J16-05
+Removed Pin From Net: NetName=NetJ6_6 Pin=U1-CN12_41
+Removed Pin From Net: NetName=NetJ6_7 Pin=U1-CN12_43
+Change Component Footprint: Designator=J6 Old Footprint=172447-YY08 New Footprint=20776008YY
+Change Component Comment : Designator=J6 Old Comment=172447-0608 New Comment=2077600881
+Change component parameters: Designator = "J6" ("J6"); Footprint = "172447-YY08"; UniqueID = "\QIPQVKFQ" ("\QIPQVKFQ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/5054480831_sd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2077600881"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(RHDR40W64P254_2X20_5130X500X1375P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PRT-14017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/prt-14017/sparkfun-electronics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/PRT-14017.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "13.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SparkFun"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PRT-14017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "474-PRT-14017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SparkFun/PRT-14017?qs=a4BXICGgSn%2F%252BaML822b65A%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=J6-4
+Added Pin To Net: NetName=GND Pin=J6-8
+Added Pin To Net: NetName=NetJ6_2 Pin=J16-03
+Added Pin To Net: NetName=NetJ6_3 Pin=J16-05
+Add Pin To Net: Unknown Pin: Pin LS1-
+Added Pin To Net: NetName=NetJ6_7 Pin=U1-CN12_41
+Added Pin To Net: NetName=NetJ6_6 Pin=U1-CN12_43
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_1 Pin=J16-01
+Added Net: Name=NetJ6_1
+Added Member To Class: ClassName=Raspberry Member=Component J4 PRT-14017
+Added Member To Class: ClassName=Raspberry Member=Component J? PRT-14017

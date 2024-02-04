@@ -1,0 +1,136 @@
+Removed Pin From Net: NetName=NetJ7_2 Pin=J7-3
+Removed Pin From Net: NetName=NetJ7_5 Pin=J7-6
+Removed Pin From Net: NetName=GND Pin=J8-5
+Removed Pin From Net: NetName=NetJ10_5 Pin=J10-6
+Removed Pin From Net: NetName=5V Pin=J11-1
+Removed Pin From Net: NetName=GND Pin=J11-5
+Removed Pin From Net: NetName=5V Pin=J13-1
+Removed Pin From Net: NetName=GND Pin=J13-5
+Removed Pin From Net: NetName=NetJ7_2 Pin=J15-02
+Removed Pin From Net: NetName=NetJ7_2 Pin=J15-04
+Removed Pin From Net: NetName=NetJ7_5 Pin=J15-06
+Removed Pin From Net: NetName=NetJ7_5 Pin=J15-08
+Removed Pin From Net: NetName=NetJ8_4 Pin=J17-01
+Removed Pin From Net: NetName=NetJ8_3 Pin=J17-03
+Removed Pin From Net: NetName=NetJ8_2 Pin=J17-05
+Removed Pin From Net: NetName=NetJ10_5 Pin=J21-06
+Removed Pin From Net: NetName=NetJ10_5 Pin=J21-08
+Removed Pin From Net: NetName=NetJ8_7 Pin=U1-CN11_65
+Removed Member From Class: ClassName=Motor_Connectors Member=J11
+Removed Member From Class: ClassName=Motor_Connectors Member=J12
+Removed Member From Class: ClassName=Motor_Connectors Member=J13
+Change Component Footprint: Designator=J7 Old Footprint=172447-YY06 New Footprint=1053101110
+Change Component Footprint: Designator=J10 Old Footprint=172447-YY06 New Footprint=1053101110
+Change Component Footprint: Designator=J8 Old Footprint=172447-YY08 New Footprint=1053101110
+Change Component Comment : Designator=J7 Old Comment=172447-0606 New Comment=105310-1110
+Change Component Comment : Designator=J10 Old Comment=172447-0606 New Comment=105310-1110
+Change Component Comment : Designator=J8 Old Comment=172447-0608 New Comment=105310-1110
+Change component parameters: Designator = "J7" ("J7"); Footprint = "172447-YY06"; UniqueID = "\FYMZIMZW" ("\FYMZIMZW")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/1053101110_sd.pdf?webSyncID=090114e7-ea8e-9787-c070-e8582bec0296&sessionGUID=771b0990-7150-0e04-30ce-34353ccdcb30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "10.51mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "105310-1110"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "538-105310-1110"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/105310-1110?qs=PqFvFmEiOr6xTZJaWkdhvQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J8" ("J8"); Footprint = "172447-YY08"; UniqueID = "\SIHQRLAX" ("\SIHQRLAX")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/1053101110_sd.pdf?webSyncID=090114e7-ea8e-9787-c070-e8582bec0296&sessionGUID=771b0990-7150-0e04-30ce-34353ccdcb30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "10.51mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "105310-1110"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "538-105310-1110"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/105310-1110?qs=PqFvFmEiOr6xTZJaWkdhvQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J10" ("J10"); Footprint = "172447-YY06"; UniqueID = "\KXYFGAJQ" ("\KXYFGAJQ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/1053101110_sd.pdf?webSyncID=090114e7-ea8e-9787-c070-e8582bec0296&sessionGUID=771b0990-7150-0e04-30ce-34353ccdcb30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "10.51mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "105310-1110"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "538-105310-1110"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/105310-1110?qs=PqFvFmEiOr6xTZJaWkdhvQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J5(RHDR40W64P254_2X20_5130X500X1375P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PRT-14017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/prt-14017/sparkfun-electronics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/PRT-14017.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "13.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SparkFun"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PRT-14017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "474-PRT-14017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SparkFun/PRT-14017?qs=a4BXICGgSn%2F%252BaML822b65A%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J7-6
+Added Pin To Net: NetName=GND Pin=J8-6
+Added Pin To Net: NetName=5V Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J10-6
+Added Pin To Net: NetName=NetJ7_5 Pin=J17-05
+Added Pin To Net: NetName=NetJ8_3 Pin=J22-01
+Added Pin To Net: NetName=NetJ8_4 Pin=J22-03
+Added Pin To Net: NetName=NetJ10_5 Pin=J23-05
+Add Pin To Net: Unknown Pin: Pin LS1-
+Added Pin To Net: NetName=NetJ8_7 Pin=U1-CN11_28
+Added Pin To Net: NetName=NetJ8_2 Pin=U1-CN11_30
+Added Pin To Net: NetName=NetJ7_2 Pin=U1-CN11_70
+Added Pin To Net: NetName=NetJ7_3 Pin=J7-3
+Added Pin To Net: NetName=NetJ7_3 Pin=J17-01
+Added Net: Name=NetJ7_3
+Added Pin To Net: NetName=NetJ7_4 Pin=J7-4
+Added Pin To Net: NetName=NetJ7_4 Pin=J17-03
+Added Net: Name=NetJ7_4
+Added Pin To Net: NetName=NetJ7_7 Pin=J7-7
+Added Pin To Net: NetName=NetJ7_7 Pin=U1-CN11_65
+Added Net: Name=NetJ7_7
+Added Pin To Net: NetName=NetJ7_8 Pin=J7-8
+Added Pin To Net: NetName=NetJ7_8 Pin=J15-06
+Added Pin To Net: NetName=NetJ7_8 Pin=J15-08
+Added Net: Name=NetJ7_8
+Added Pin To Net: NetName=NetJ7_9 Pin=J7-9
+Added Pin To Net: NetName=NetJ7_9 Pin=J17-06
+Added Pin To Net: NetName=NetJ7_9 Pin=J17-08
+Added Net: Name=NetJ7_9
+Added Pin To Net: NetName=NetJ7_10 Pin=J7-10
+Added Pin To Net: NetName=NetJ7_10 Pin=J15-02
+Added Pin To Net: NetName=NetJ7_10 Pin=J15-04
+Added Net: Name=NetJ7_10
+Added Pin To Net: NetName=NetJ8_5 Pin=J8-5
+Added Pin To Net: NetName=NetJ8_5 Pin=J22-05
+Added Net: Name=NetJ8_5
+Added Pin To Net: NetName=NetJ8_8 Pin=J8-8
+Added Pin To Net: NetName=NetJ8_8 Pin=J21-06
+Added Pin To Net: NetName=NetJ8_8 Pin=J21-08
+Added Net: Name=NetJ8_8
+Added Pin To Net: NetName=NetJ8_9 Pin=J8-9
+Added Pin To Net: NetName=NetJ8_9 Pin=J22-06
+Added Pin To Net: NetName=NetJ8_9 Pin=J22-08
+Added Net: Name=NetJ8_9
+Added Pin To Net: NetName=NetJ8_10 Pin=J8-10
+Added Pin To Net: NetName=NetJ8_10 Pin=J21-02
+Added Pin To Net: NetName=NetJ8_10 Pin=J21-04
+Added Net: Name=NetJ8_10
+Added Pin To Net: NetName=NetJ10_3 Pin=J10-3
+Added Pin To Net: NetName=NetJ10_3 Pin=J23-01
+Added Net: Name=NetJ10_3
+Added Pin To Net: NetName=NetJ10_4 Pin=J10-4
+Added Pin To Net: NetName=NetJ10_4 Pin=J23-03
+Added Net: Name=NetJ10_4
+Added Pin To Net: NetName=NetJ10_7 Pin=J10-7
+Added Pin To Net: NetName=NetJ10_7 Pin=U1-CN12_13
+Added Net: Name=NetJ10_7
+Added Pin To Net: NetName=NetJ10_8 Pin=J10-8
+Added Pin To Net: NetName=NetJ10_8 Pin=J20-06
+Added Pin To Net: NetName=NetJ10_8 Pin=J20-08
+Added Net: Name=NetJ10_8
+Added Pin To Net: NetName=NetJ10_9 Pin=J10-9
+Added Pin To Net: NetName=NetJ10_9 Pin=J23-06
+Added Pin To Net: NetName=NetJ10_9 Pin=J23-08
+Added Net: Name=NetJ10_9
+Added Pin To Net: NetName=NetJ10_10 Pin=J10-10
+Added Pin To Net: NetName=NetJ10_10 Pin=J20-02
+Added Pin To Net: NetName=NetJ10_10 Pin=J20-04
+Added Net: Name=NetJ10_10
+Added Pin To Net: NetName=NetU1_CN12_15 Pin=U1-CN12_15
+Added Net: Name=NetU1_CN12_15
+Added Member To Class: ClassName=Raspberry Member=Component J5 PRT-14017
