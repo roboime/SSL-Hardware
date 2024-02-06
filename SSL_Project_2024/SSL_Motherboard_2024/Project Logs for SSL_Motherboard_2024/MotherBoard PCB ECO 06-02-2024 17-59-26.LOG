@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetLS1_1 Pin=LS1-1
+Added Pin To Net: NetName=NetLS1_1 Pin=Q2-3
+Added Pin To Net: NetName=NetLS1_1 Pin=R13-2
+Added Net: Name=NetLS1_1
+Added Member To Class: ClassName=Peripherals Member=Component LS1 PS1240P02BT
