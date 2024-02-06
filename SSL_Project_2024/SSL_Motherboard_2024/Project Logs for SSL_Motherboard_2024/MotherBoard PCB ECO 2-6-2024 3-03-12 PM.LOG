@@ -1,0 +1,5 @@
+Add Pin To Net: Unknown Pin: Pin LS1-
+Added Pin To Net: NetName=NetJ17_01 Pin=J17-01
+Added Pin To Net: NetName=NetJ17_01 Pin=U1-CN12_47
+Added Net: Name=NetJ17_01
+Added Member To Class: ClassName=Peripherals Member=Component S4 A6FR-5101
