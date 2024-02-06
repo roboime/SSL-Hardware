@@ -1,0 +1,13 @@
+Added Component: Designator=Q1(BTS141TCBUMA1)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "IKB40N65ES5ATMA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ikb40n65es5atma1/infineon-technologies-ag?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/IKB40N65ES5ATMA1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IKB40N65ES5ATMA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "726-IKB40N65ES5ATMA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IKB40N65ES5ATMA1?qs=MLItCLRbWsxz7jtfFbVz2w%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=Collector_1 Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Member To Class: ClassName=Kicker Member=Component Q1 IKB40N65ES5ATMA1
