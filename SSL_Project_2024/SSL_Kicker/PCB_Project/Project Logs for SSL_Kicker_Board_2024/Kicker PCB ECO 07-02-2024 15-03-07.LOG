@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=Q3 Old Footprint=DIP762W60P254L460H400Q4N New Footprint=HCPL-817-300
+Change Component Footprint: Designator=Q4 Old Footprint=DIP762W60P254L460H400Q4N New Footprint=HCPL-817-300
+Change Component Comment : Designator=Q3 Old Comment=HCPL-817-000E New Comment=HCPL-817-300E
+Change Component Comment : Designator=Q4 Old Comment=HCPL-817-000E New Comment=HCPL-817-300E
+Change component parameters: Designator = "Q3" ("Q3"); Footprint = "DIP762W60P254L460H400Q4N"; UniqueID = "\IUTLQHRL" ("\IUTLQHRL")
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "HCPL-817-300E"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q4" ("Q4"); Footprint = "DIP762W60P254L460H400Q4N"; UniqueID = "\AQCOCCBH" ("\AQCOCCBH")
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "HCPL-817-300E"; VariantName = "[No Variations]"
