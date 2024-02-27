@@ -1,0 +1,29 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [SSL_ESC_2024.PrjPcb]
+   Generated File[ESC_Copper_Signal_Top.gbr]
+   Generated File[ESC_Copper_Signal_Bot.gbr]
+   Generated File[ESC_Pads_Bot.gbr]
+   Generated File[ESC_Pads_Top.gbr]
+   Generated File[ESC_Legend_Top.gbr]
+   Generated File[ESC_Legend_Bot.gbr]
+   Generated File[ESC_Soldermask_Top.gbr]
+   Generated File[ESC_Soldermask_Bot.gbr]
+   Generated File[ESC_Paste_Top.gbr]
+   Generated File[ESC_Paste_Bot.gbr]
+   Generated File[ESC_Keep-out.gbr]
+   Generated File[ESC_Mechanical_1.gbr]
+   Generated File[ESC_Bottom_Courtyard.gbr]
+   Generated File[ESC_Bottom_3D_Body.gbr]
+   Generated File[ESC_Profile.gbr]
+   Generated File[ESC_PTH_Drill.gbr]
+   Generated File[ESC_Drawing_1.gbr]
+   Generated File[ESC_Drillmap_1.gbr]
+   Generated File[ESC.EXTREP]
+   Generated File[ESC.REP]
+
+
+Files Generated   : 20
+Documents Printed : 0
+
+Finished Output Generation At 10:52:21 On 27/02/2024
