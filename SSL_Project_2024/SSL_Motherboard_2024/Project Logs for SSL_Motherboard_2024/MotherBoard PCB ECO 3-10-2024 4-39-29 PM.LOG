@@ -1,0 +1,10 @@
+Change Component DesignItemId : Designator=J6 Old DesignItemId=105310-1110 New DesignItemId=
+Change Component DesignItemId : Designator=J7 Old DesignItemId=105310-1110 New DesignItemId=
+Change Component DesignItemId : Designator=J8 Old DesignItemId=105310-1110 New DesignItemId=
+Change Component DesignItemId : Designator=J10 Old DesignItemId=105310-1110 New DesignItemId=
+Change Component DesignItemId : Designator=J5 Old DesignItemId=1053101204 New DesignItemId=
+Change Component Library : Designator=J5 Old Library=* New Library=roboime.SchLib
+Change Component Library : Designator=J6 Old Library=* New Library=roboime.SchLib
+Change Component Library : Designator=J7 Old Library=* New Library=roboime.SchLib
+Change Component Library : Designator=J8 Old Library=* New Library=roboime.SchLib
+Change Component Library : Designator=J10 Old Library=* New Library=roboime.SchLib
