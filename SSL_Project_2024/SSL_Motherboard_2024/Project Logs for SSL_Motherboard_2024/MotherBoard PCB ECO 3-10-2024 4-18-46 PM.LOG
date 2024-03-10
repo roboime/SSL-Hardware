@@ -1,0 +1,195 @@
+Removed Pin From Net: NetName=NetJ6_3 Pin=J16-03
+Removed Pin From Net: NetName=NetJ6_5 Pin=J16-07
+Removed Pin From Net: NetName=3V3 Pin=MD1-8
+Removed Pin From Net: NetName=GND Pin=MD1-9
+Removed Pin From Net: NetName=3V3 Pin=R11-1
+Removed Pin From Net: NetName=NetP1_3 Pin=R11-2
+Removed Pin From Net: NetName=3V3 Pin=R13-1
+Removed Pin From Net: NetName=NetLS1_1 Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=R14-1
+Removed Pin From Net: NetName=NetQ2_1 Pin=R14-2
+Removed Pin From Net: NetName=NetIC4_1 Pin=R17-1
+Removed Pin From Net: NetName=3V3 Pin=R17-2
+Removed Pin From Net: NetName=NetIC4_10 Pin=R24-2
+Removed Pin From Net: NetName=NetIC4_11 Pin=R25-2
+Removed Pin From Net: NetName=NetIC4_12 Pin=R26-2
+Removed Pin From Net: NetName=NetIC4_14 Pin=R27-2
+Removed Pin From Net: NetName=GND Pin=R28-1
+Removed Pin From Net: NetName=NetIC4_16 Pin=R28-2
+Removed Member From Class: ClassName=Peripherals Member=R28
+Change Component Footprint: Designator=R10 Old Footprint=FP-AC0805-MFG New Footprint=RESC1608X55N
+Change Component Footprint: Designator=R8 Old Footprint=FP-CRCW0805-e3-IPC_B New Footprint=RESC1608X55N
+Change Component Footprint: Designator=R11 Old Footprint=FP-CRCW0805-e3-IPC_B New Footprint=RESC1608X55N
+Change Component Footprint: Designator=R15 Old Footprint=FP-CRCW0805-e3-IPC_B New Footprint=RESC1608X55N
+Change Component Footprint: Designator=R16 Old Footprint=FP-CRCW0805-e3-IPC_B New Footprint=RESC1608X55N
+Change Component Footprint: Designator=R17 Old Footprint=FP-CRCW0805-e3-IPC_B New Footprint=RESC1608X55N
+Change Component Footprint: Designator=R24 Old Footprint=FP-CRCW0805-e3-IPC_B New Footprint=RESC1608X55N
+Change Component Footprint: Designator=R25 Old Footprint=FP-CRCW0805-e3-IPC_B New Footprint=RESC1608X55N
+Change Component Footprint: Designator=R26 Old Footprint=FP-CRCW0805-e3-IPC_B New Footprint=RESC1608X55N
+Change Component Footprint: Designator=R27 Old Footprint=FP-CRCW0805-e3-IPC_B New Footprint=RESC1608X55N
+Change Component Footprint: Designator=R14 Old Footprint=FP-CRGP0805-IPC_C New Footprint=RESC1608X55N
+Change Component Footprint: Designator=R13 Old Footprint=RESC3116X65X40ML10T20 New Footprint=ERJUP3
+Change Component Comment : Designator=R10 Old Comment=AC0805JR-074K7L New Comment=CRCW06034R70FKEAHP
+Change Component Comment : Designator=R8 Old Comment=CRCW08054K70JNEA New Comment=CRCW06034R70FKEAHP
+Change Component Comment : Designator=R11 Old Comment=CRCW08054K70JNEA New Comment=CRCW06034R70FKEAHP
+Change Component Comment : Designator=R15 Old Comment=CRCW08054K70JNEA New Comment=CRCW06034R70FKEAHP
+Change Component Comment : Designator=R16 Old Comment=CRCW08054K70JNEA New Comment=CRCW06034R70FKEAHP
+Change Component Comment : Designator=R17 Old Comment=CRCW08054K70JNEA New Comment=CRCW06034R70FKEAHP
+Change Component Comment : Designator=R24 Old Comment=CRCW08054K70JNEA New Comment=CRCW06034R70FKEAHP
+Change Component Comment : Designator=R25 Old Comment=CRCW08054K70JNEA New Comment=CRCW06034R70FKEAHP
+Change Component Comment : Designator=R26 Old Comment=CRCW08054K70JNEA New Comment=CRCW06034R70FKEAHP
+Change Component Comment : Designator=R27 Old Comment=CRCW08054K70JNEA New Comment=CRCW06034R70FKEAHP
+Change Component Comment : Designator=R14 Old Comment=CRGP0805F47K New Comment=CPF-A-0603B1K0E1
+Change Component Comment : Designator=R13 Old Comment=RC1206FR-071KL New Comment=ERJ-UP3D4702V
+Change Managed Component Library Link : Designator=R8 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=51AED895-FDDB-4787-BD57-9D91022D8E6E New ItemGUID= Old RevisionGUID=9093CAEF-F429-47E7-97EE-45F2A446C2D3 New RevisionGUID=
+Change Managed Component Library Link : Designator=R10 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=FE383EF3-81E9-471C-82D2-6F6C51A0812B New ItemGUID= Old RevisionGUID=BC30A802-7CE3-4E18-A438-6A68F27E1281 New RevisionGUID=
+Change Managed Component Library Link : Designator=R11 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=51AED895-FDDB-4787-BD57-9D91022D8E6E New ItemGUID= Old RevisionGUID=9093CAEF-F429-47E7-97EE-45F2A446C2D3 New RevisionGUID=
+Change Managed Component Library Link : Designator=R13 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=110ADA75-BFF5-45E5-8385-8C24D0703B4D New ItemGUID= Old RevisionGUID=B9852900-436B-4A58-B6AC-5AF048E367ED New RevisionGUID=
+Change Managed Component Library Link : Designator=R14 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=23C5D814-DA51-4D62-80F8-D8F00C51F0ED New ItemGUID= Old RevisionGUID=15A03D82-FA89-47B6-A3BA-C2CFA23A4619 New RevisionGUID=
+Change Managed Component Library Link : Designator=R15 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=51AED895-FDDB-4787-BD57-9D91022D8E6E New ItemGUID= Old RevisionGUID=9093CAEF-F429-47E7-97EE-45F2A446C2D3 New RevisionGUID=
+Change Managed Component Library Link : Designator=R16 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=51AED895-FDDB-4787-BD57-9D91022D8E6E New ItemGUID= Old RevisionGUID=9093CAEF-F429-47E7-97EE-45F2A446C2D3 New RevisionGUID=
+Change Managed Component Library Link : Designator=R17 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=51AED895-FDDB-4787-BD57-9D91022D8E6E New ItemGUID= Old RevisionGUID=9093CAEF-F429-47E7-97EE-45F2A446C2D3 New RevisionGUID=
+Change Managed Component Library Link : Designator=R24 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=51AED895-FDDB-4787-BD57-9D91022D8E6E New ItemGUID= Old RevisionGUID=9093CAEF-F429-47E7-97EE-45F2A446C2D3 New RevisionGUID=
+Change Managed Component Library Link : Designator=R25 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=51AED895-FDDB-4787-BD57-9D91022D8E6E New ItemGUID= Old RevisionGUID=9093CAEF-F429-47E7-97EE-45F2A446C2D3 New RevisionGUID=
+Change Managed Component Library Link : Designator=R26 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=51AED895-FDDB-4787-BD57-9D91022D8E6E New ItemGUID= Old RevisionGUID=9093CAEF-F429-47E7-97EE-45F2A446C2D3 New RevisionGUID=
+Change Managed Component Library Link : Designator=R27 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=51AED895-FDDB-4787-BD57-9D91022D8E6E New ItemGUID= Old RevisionGUID=9093CAEF-F429-47E7-97EE-45F2A446C2D3 New RevisionGUID=
+Change component parameters: Designator = "R8" ("R8"); Footprint = "FP-CRCW0805-e3-IPC_B"; UniqueID = "\ILWFXMRH" ("\ILWFXMRH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CRCW06034R70FKEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crcw06034r70fkeahp/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/8206877"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW06034R70FKEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW06034R70FKEAH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW06034R70FKEAHP?qs=zlv9Rr0w%252BHo2DV5S%252Bz7lug%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "FP-AC0805-MFG"; UniqueID = "\OUAAIUUQ" ("\OUAAIUUQ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CRCW06034R70FKEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crcw06034r70fkeahp/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/8206877"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW06034R70FKEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW06034R70FKEAH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW06034R70FKEAHP?qs=zlv9Rr0w%252BHo2DV5S%252Bz7lug%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "FP-CRCW0805-e3-IPC_B"; UniqueID = "\ABOSGNWM" ("\ABOSGNWM")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CRCW06034R70FKEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crcw06034r70fkeahp/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/8206877"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW06034R70FKEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW06034R70FKEAH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW06034R70FKEAHP?qs=zlv9Rr0w%252BHo2DV5S%252Bz7lug%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RESC3116X65X40ML10T20"; UniqueID = "\TGFQBABF" ("\TGFQBABF")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C337.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-UP3D4702V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-UP3D4702V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-UP3D4702V?qs=GedFDFLaBXG9rkg%252BckNv2g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "FP-CRGP0805-IPC_C"; UniqueID = "\NNPUSINL" ("\NNPUSINL")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/CPF-A-0603B1K0E1.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF-A-0603B1K0E1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-CPF-A-0603B1K0E1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CPF-A-0603B1K0E1?qs=Rv6LVDxB0ZpCjx0kmO%252BiwA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "FP-CRCW0805-e3-IPC_B"; UniqueID = "\TXBYGAZZ" ("\TXBYGAZZ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CRCW06034R70FKEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crcw06034r70fkeahp/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/8206877"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW06034R70FKEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW06034R70FKEAH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW06034R70FKEAHP?qs=zlv9Rr0w%252BHo2DV5S%252Bz7lug%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "FP-CRCW0805-e3-IPC_B"; UniqueID = "\TBCFXRND" ("\TBCFXRND")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CRCW06034R70FKEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crcw06034r70fkeahp/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/8206877"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW06034R70FKEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW06034R70FKEAH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW06034R70FKEAHP?qs=zlv9Rr0w%252BHo2DV5S%252Bz7lug%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "FP-CRCW0805-e3-IPC_B"; UniqueID = "\AGERPOAY" ("\AGERPOAY")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CRCW06034R70FKEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crcw06034r70fkeahp/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/8206877"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW06034R70FKEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW06034R70FKEAH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW06034R70FKEAHP?qs=zlv9Rr0w%252BHo2DV5S%252Bz7lug%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R24"); Footprint = "FP-CRCW0805-e3-IPC_B"; UniqueID = "\BSTCECOU" ("\BSTCECOU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CRCW06034R70FKEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crcw06034r70fkeahp/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/8206877"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW06034R70FKEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW06034R70FKEAH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW06034R70FKEAHP?qs=zlv9Rr0w%252BHo2DV5S%252Bz7lug%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25" ("R25"); Footprint = "FP-CRCW0805-e3-IPC_B"; UniqueID = "\QQCQFWEM" ("\QQCQFWEM")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CRCW06034R70FKEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crcw06034r70fkeahp/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/8206877"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW06034R70FKEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW06034R70FKEAH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW06034R70FKEAHP?qs=zlv9Rr0w%252BHo2DV5S%252Bz7lug%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R26"); Footprint = "FP-CRCW0805-e3-IPC_B"; UniqueID = "\SNZKWFOZ" ("\SNZKWFOZ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CRCW06034R70FKEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crcw06034r70fkeahp/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/8206877"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW06034R70FKEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW06034R70FKEAH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW06034R70FKEAHP?qs=zlv9Rr0w%252BHo2DV5S%252Bz7lug%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27" ("R27"); Footprint = "FP-CRCW0805-e3-IPC_B"; UniqueID = "\KPPSEQEY" ("\KPPSEQEY")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CRCW06034R70FKEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crcw06034r70fkeahp/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/8206877"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW06034R70FKEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW06034R70FKEAH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW06034R70FKEAHP?qs=zlv9Rr0w%252BHo2DV5S%252Bz7lug%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CRCW06034R70FKEAHP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crcw06034r70fkeahp/vishay?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/8206877"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW06034R70FKEAHP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW06034R70FKEAH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW06034R70FKEAHP?qs=zlv9Rr0w%252BHo2DV5S%252Bz7lug%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ6_5 Pin=J16-03
+Added Pin To Net: NetName=NetJ6_3 Pin=J16-07
+Added Pin To Net: NetName=NetP1_3 Pin=R11-1
+Added Pin To Net: NetName=3V3 Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R13-2
+Added Pin To Net: NetName=3V3 Pin=R14-1
+Added Pin To Net: NetName=NetLS1_1 Pin=R14-2
+Added Pin To Net: NetName=3V3 Pin=R17-1
+Added Pin To Net: NetName=NetIC4_1 Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=NetIC4_10 Pin=R20-2
+Added Pin To Net: NetName=NetIC4_11 Pin=R24-2
+Added Pin To Net: NetName=NetIC4_12 Pin=R25-2
+Added Pin To Net: NetName=NetIC4_14 Pin=R26-2
+Added Pin To Net: NetName=NetIC4_16 Pin=R27-2
+Added Pin To Net: NetName=NetMD1_8 Pin=MD1-8
+Added Pin To Net: NetName=NetMD1_8 Pin=U1-CN12_69
+Added Net: Name=NetMD1_8
+Added Pin To Net: NetName=NetMD1_9 Pin=MD1-9
+Added Pin To Net: NetName=NetMD1_9 Pin=U1-CN12_68
+Added Net: Name=NetMD1_9
+Added Member To Class: ClassName=Peripherals Member=Component R20 CRCW06034R70FKEAHP
