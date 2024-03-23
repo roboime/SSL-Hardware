@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=LED?-1
+Removed Member From Class: ClassName=Kicker Member=LED?
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Added Component: Designator=LED1(LEDC2012X105N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SM0805HCL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sm0805hcl/bivar?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-28/DSA-548818.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.054mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bivar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM0805HCL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "749-SM0805HCL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bivar/SM0805HCL?qs=jaLxTFIJCiunRhy8mE7Amw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R2-1
+Added Net: Name=NetLED1_2
+Added Member To Class: ClassName=Kicker Member=Component LED1 SM0805HCL
