@@ -1,0 +1,12 @@
+Change Physical Footprint: Designator=J1 Old Footprint=172447-YY08 New Footprint=172447-YY08
+Change Physical Footprint: Designator=MD1 Old Footprint=E28-2G4M27S New Footprint=E28-2G4M27S
+Change Physical Footprint: Designator=MD2 Old Footprint=E28-2G4M27S New Footprint=E28-2G4M27S
+Change Physical Footprint: Designator=Q1 Old Footprint=AMASS_XT60PB-M New Footprint=AMASS_XT60PB-M
+Change Physical Footprint: Designator=R1 Old Footprint=FP-CPF0603-MFG New Footprint=FP-CPF0603-MFG
+Change Physical Footprint: Designator=R2 Old Footprint=FP-CRCW0603-e3-IPC_A New Footprint=FP-CRCW0603-e3-IPC_A
+Change Physical Footprint: Designator=R3 Old Footprint=FP-CRCW0603-e3-IPC_A New Footprint=FP-CRCW0603-e3-IPC_A
+Change Physical Footprint: Designator=R21 Old Footprint=FP-CRCW0603-e3-MFG New Footprint=FP-CRCW0603-e3-MFG
+Change Physical Footprint: Designator=R22 Old Footprint=FP-CRCW0603-e3-IPC_A New Footprint=FP-CRCW0603-e3-IPC_A
+Change Physical Footprint: Designator=R23 Old Footprint=FP-CRCW0603-e3-IPC_A New Footprint=FP-CRCW0603-e3-IPC_A
+Change Physical Footprint: Designator=SW1 Old Footprint=FP-CS12ANW03-MFG New Footprint=FP-CS12ANW03-MFG
+Change Physical Footprint: Designator=U2 Old Footprint=PowerPAK_8x8L_BWL-2_VIS New Footprint=PowerPAK_8x8L_BWL-2_VIS

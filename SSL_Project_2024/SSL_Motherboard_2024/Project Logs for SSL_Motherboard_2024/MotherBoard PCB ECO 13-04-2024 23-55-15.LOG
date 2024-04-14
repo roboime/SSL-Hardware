@@ -1,0 +1,22 @@
+Change Component Comment : Designator=C9 Old Comment=10uF New Comment=CAP 10uF 6.3V 0805(2012)
+Change Component Comment : Designator=C10 Old Comment=10uF New Comment=CAP 10uF 6.3V 0805(2012)
+Change Component Comment : Designator=C3 Old Comment=100nF New Comment=CAP 10uF 6.3V 0805(2012)
+Change Component Comment : Designator=C8 Old Comment=100nF New Comment=CAP 10uF 6.3V 0805(2012)
+Change Component Comment : Designator=R3 Old Comment=CRCW060310K0FKEA New Comment=CRCW060310R0FKEA
+Change Component Comment : Designator=R5 Old Comment=CRCW060310K0FKEA New Comment=CRCW060310R0FKEA
+Change Component Comment : Designator=R7 Old Comment=CRCW060310K0FKEA New Comment=CRCW060310R0FKEA
+Change Component Comment : Designator=R4 Old Comment=CRCW060330K0FKTA New Comment=CRCW060310R0FKEA
+Change Component Comment : Designator=R6 Old Comment=CRCW060352K3FKEA New Comment=CRCW060310R0FKEA
+Change Component Comment : Designator=R2 Old Comment=RT0603BRE075KL New Comment=CRCW060310R0FKEA
+Change Component Description : Designator=J2 Old Description=Connector Mate 46992-0240 New Description=Connector
+Change Component Description : Designator=J3 Old Description=Connector Mate 46992-0240 New Description=Connector
+Change Component Description : Designator=J1 Old Description=Connector Mate 46992-0840 New Description=Connector
+Change Component Description : Designator=J6 Old Description=Connector mates with 1053081210 New Description=Connector
+Change Component Description : Designator=J7 Old Description=Connector mates with 1053081210 New Description=Connector
+Change Component Description : Designator=J8 Old Description=Connector mates with 1053081210 New Description=Connector
+Change Component Description : Designator=J10 Old Description=Connector mates with 1053081210 New Description=Connector
+Change Component Library : Designator=D1 Old Library=* New Library=roboime.SchLib
+Change Component Library : Designator=IC4 Old Library=* New Library=roboime.SchLib
+Change Component Library : Designator=LED1 Old Library=* New Library=roboime.SchLib
+Change Component Library : Designator=R14 Old Library=* New Library=roboime.SchLib
+Change Component Library : Designator=R18 Old Library=* New Library=roboime.SchLib
