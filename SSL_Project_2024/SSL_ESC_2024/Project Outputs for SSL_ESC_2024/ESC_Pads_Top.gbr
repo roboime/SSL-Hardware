@@ -1,16 +1,16 @@
-%TF.GenerationSoftware,Altium Limited,Altium Designer,24.2.2 (26)*%
+%TF.GenerationSoftware,Altium Limited,Altium Designer,24.4.1 (13)*%
 G04 Layer_Color=255*
 %FSLAX45Y45*%
 %MOMM*%
-%TF.SameCoordinates,C43FDC76-AA2B-4580-830C-854DEF30EB04*%
+%TF.SameCoordinates,C660FC9E-4896-4694-9F0D-9EB1E9559909*%
 %TF.FilePolarity,Positive*%
 %TF.FileFunction,Pads,Top*%
 %TF.Part,Single*%
 G01*
 G75*
 %TA.AperFunction,SMDPad,CuDef*%
-%ADD10R,6.35000X5.08000*%
-%ADD11R,5.08000X3.68000*%
+%ADD10R,5.08000X3.68000*%
+%ADD11R,6.35000X5.08000*%
 %TA.AperFunction,ViaPad*%
 %ADD15C,1.52400*%
 %TA.AperFunction,ComponentPad*%
@@ -21,16 +21,16 @@ G04:AMPARAMS|DCode=16|XSize=2.032mm|YSize=1.524mm|CornerRadius=0mm|HoleSize=0mm|
 %ADD16OCTAGOND16*%
 
 D10*
+X4260000Y1850000D02*
+D03*
+Y260000D02*
+D03*
+D11*
 X360000Y1030000D02*
 D03*
 Y370000D02*
 D03*
 Y1690000D02*
-D03*
-D11*
-X4260000Y1850000D02*
-D03*
-Y260000D02*
 D03*
 D15*
 X3580000Y2120000D02*
@@ -64,5 +64,5 @@ X2736000D02*
 D03*
 X2990000D02*
 D03*
-%TF.MD5,c25df0e871c41ad43552a2143158ef1a*%
+%TF.MD5,136c8c9694fc253cd330be1dee4a7a82*%
 M02*

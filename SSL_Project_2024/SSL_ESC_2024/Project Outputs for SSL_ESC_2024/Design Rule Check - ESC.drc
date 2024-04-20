@@ -1,0 +1,96 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\xboxw\Desktop\HARDWARE_NEW\SSL_Project_2024\SSL_Motherboard_2024\ESC.PcbDoc
+Date     : 20/04/2024
+Time     : 17:18:59
+
+Processing Rule : Clearance Constraint (Gap=1mm) (InNamedPolygon('GND_L02_P000')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mm) (InNamedPolygon('GND_L02_P000')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.1mm) (InNamedPolygon('GND_L02_P000')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.5mm) (InNamedPolygon('GND_L01_P001')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (InNamedPolygon('GND_L01_P001')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mm) (InNamedPolygon('GND_L01_P001')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (InNamedPolygon('GND_L01_P001')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=1mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Arc (18.635mm,13.75mm) on Bottom Overlay And Pad J3-1(16.635mm,13.7mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Arc (37.235mm,13.75mm) on Bottom Overlay And Pad J1-1(35.235mm,13.7mm) on Bottom Layer [Bottom Overlay] to [Bottom Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.247mm < 0.254mm) Between Pad Free-10(44.8mm,10.8mm) on Multi-Layer And Text "PWM" (44.946mm,8.754mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.247mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.203mm < 0.254mm) Between Pad Free-11(44.8mm,14.3mm) on Multi-Layer And Text "TX" (44.946mm,12.654mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.203mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.235mm < 0.254mm) Between Pad Free-8(46.9mm,9.1mm) on Multi-Layer And Text "H3" (47.442mm,7.454mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.235mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.236mm < 0.254mm) Between Pad Free-9(44.8mm,7.3mm) on Multi-Layer And Text "H2" (44.846mm,5.654mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.236mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.112mm < 0.254mm) Between Pad Free-pad2(42.6mm,2.6mm) on Top Layer And Text "VBAT" (46.146mm,1.354mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.112mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.152mm < 0.254mm) Between Pad P1-1(22.28mm,21.3mm) on Multi-Layer And Track (21.645mm,20.03mm)(22.915mm,20.03mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.152mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.152mm < 0.254mm) Between Pad P1-1(22.28mm,21.3mm) on Multi-Layer And Track (21.645mm,22.57mm)(22.915mm,22.57mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.152mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.152mm < 0.254mm) Between Pad P1-2(24.82mm,21.3mm) on Multi-Layer And Track (24.185mm,20.03mm)(25.455mm,20.03mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.152mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.152mm < 0.254mm) Between Pad P1-2(24.82mm,21.3mm) on Multi-Layer And Track (24.185mm,22.57mm)(25.455mm,22.57mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.152mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.152mm < 0.254mm) Between Pad P1-3(27.36mm,21.3mm) on Multi-Layer And Track (26.725mm,20.03mm)(27.995mm,20.03mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.152mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.152mm < 0.254mm) Between Pad P1-3(27.36mm,21.3mm) on Multi-Layer And Track (26.725mm,22.57mm)(27.995mm,22.57mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.152mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.152mm < 0.254mm) Between Pad P1-4(29.9mm,21.3mm) on Multi-Layer And Track (29.265mm,20.03mm)(30.535mm,20.03mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.152mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.152mm < 0.254mm) Between Pad P1-4(29.9mm,21.3mm) on Multi-Layer And Track (29.265mm,22.57mm)(30.535mm,22.57mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.152mm]
+Rule Violations :15
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 15
+Waived Violations : 0
+Time Elapsed        : 00:00:01
