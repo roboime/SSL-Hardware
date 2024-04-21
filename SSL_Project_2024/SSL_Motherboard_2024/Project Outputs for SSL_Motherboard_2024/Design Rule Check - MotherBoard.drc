@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\xboxw\Desktop\HARDWARE_NEW\SSL_Project_2024\SSL_Motherboard_2024\MotherBoard.PcbDoc
-Date     : 15/04/2024
-Time     : 14:40:37
+PCB File : C:\Users\enzog\OneDrive\Documentos\RoboIME\SSL-Hardware\SSL_Project_2024\SSL_Motherboard_2024\MotherBoard.PcbDoc
+Date     : 4/20/2024
+Time     : 11:02:48 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -13,6 +13,9 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=5mm) (Preferred=0.254mm) (All)
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=0.1mm) (Max=2.54mm) (Preferred=0.254mm) (All)
@@ -45,4 +48,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
