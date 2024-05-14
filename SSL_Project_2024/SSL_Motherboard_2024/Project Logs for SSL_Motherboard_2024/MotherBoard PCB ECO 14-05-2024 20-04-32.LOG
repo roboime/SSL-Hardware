@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC3_1 Pin=R4-2
+Removed Pin From Net: NetName=NetC8_1 Pin=R6-2
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Pin To Net: NetName=5V Pin=R6-2
+Change Rule Name: Old Name=MaxMinWidth_1 New Name=Width
+Change object: Duplicates not allowed
