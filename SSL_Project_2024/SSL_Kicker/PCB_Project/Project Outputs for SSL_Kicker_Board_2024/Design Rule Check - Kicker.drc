@@ -1,12 +1,18 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\enzog\OneDrive\Documentos\RoboIME\SSL-Hardware\SSL_Project_2024\SSL_Kicker\PCB_Project\Kicker.PcbDoc
-Date     : 4/20/2024
-Time     : 11:08:43 PM
+PCB File : C:\Users\jogui\OneDrive\Área de Trabalho\SSL_HARDWARE\SSL_Project_2024\SSL_Kicker\PCB_Project\Kicker.PcbDoc
+Date     : 20/05/2024
+Time     : 22:54:17
 
-Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.254mm) ((ExistsOnLayer('Top Layer') Or ExistsOnLayer('Bottom Layer'))),((ExistsOnLayer('Top Layer') Or ExistsOnLayer('Bottom Layer')))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (OnMid),(OnMid)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=1.5mm) (InNetClass('HV')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -18,7 +24,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.1mm) (Max=0.5mm) (Preferred=0.254mm) (All)
+Processing Rule : Width Constraint (Min=0.1mm) (Max=5mm) (Preferred=0.3mm) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
@@ -42,10 +48,13 @@ Rule Violations :0
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
