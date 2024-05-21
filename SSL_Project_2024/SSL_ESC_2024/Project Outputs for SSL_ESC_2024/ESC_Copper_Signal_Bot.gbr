@@ -1,9 +1,9 @@
-%TF.GenerationSoftware,Altium Limited,Altium Designer,24.4.1 (13)*%
+%TF.GenerationSoftware,Altium Limited,Altium Designer,23.6.0 (18)*%
 G04 Layer_Physical_Order=2*
 G04 Layer_Color=16711680*
 %FSLAX45Y45*%
 %MOMM*%
-%TF.SameCoordinates,C660FC9E-4896-4694-9F0D-9EB1E9559909*%
+%TF.SameCoordinates,E8FE7F88-156A-4670-BA50-05D3EA163389*%
 %TF.FilePolarity,Positive*%
 %TF.FileFunction,Copper,L2,Bot,Signal*%
 %TF.Part,Single*%
@@ -925,5 +925,5 @@ X1663500Y770000D02*
 D03*
 X1236500D02*
 D03*
-%TF.MD5,d5b4c21cd8753668cd47c31105601c68*%
+%TF.MD5,55ba16f54c849e7d8cb5b1e4d1d5c138*%
 M02*

@@ -1,0 +1,35 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [SSL_Motherboard_2024.PrjPcb]
+   Generated File[MotherBoard_Copper_Signal_Top.gbr]
+   Generated File[MotherBoard_Copper_Signal_Bot.gbr]
+   Generated File[MotherBoard_Pads_Bot.gbr]
+   Generated File[MotherBoard_Pads_Top.gbr]
+   Generated File[MotherBoard_Legend_Top.gbr]
+   Generated File[MotherBoard_Legend_Bot.gbr]
+   Generated File[MotherBoard_Soldermask_Top.gbr]
+   Generated File[MotherBoard_Soldermask_Bot.gbr]
+   Generated File[MotherBoard_Paste_Top.gbr]
+   Generated File[MotherBoard_Paste_Bot.gbr]
+   Generated File[MotherBoard_Mechanical_1.gbr]
+   Generated File[MotherBoard_Top_Assembly.gbr]
+   Generated File[MotherBoard_Top_3D_Body.gbr]
+   Generated File[MotherBoard_Top_Courtyard.gbr]
+   Generated File[MotherBoard_Top_Component_Center.gbr]
+   Generated File[MotherBoard_Bottom_Assembly.gbr]
+   Generated File[MotherBoard_Bottom_Courtyard.gbr]
+   Generated File[MotherBoard_Bottom_3D_Body.gbr]
+   Generated File[MotherBoard_Bottom_Component_Center.gbr]
+   Generated File[MotherBoard_Profile.gbr]
+   Generated File[MotherBoard_NPTH_Drill.gbr]
+   Generated File[MotherBoard_PTH_Drill.gbr]
+   Generated File[MotherBoard_Drawing_1.gbr]
+   Generated File[MotherBoard_Drillmap_1.gbr]
+   Generated File[MotherBoard.EXTREP]
+   Generated File[MotherBoard.REP]
+
+
+Files Generated   : 26
+Documents Printed : 0
+
+Finished Output Generation At 23:07:44 On 20/05/2024

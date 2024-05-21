@@ -1,0 +1,37 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [SSL_Kicker_Board_2024.PrjPcb]
+   Generated File[Kicker_Copper_Signal_Top.gbr]
+   Generated File[Kicker_Copper_Signal_Bot.gbr]
+   Generated File[Kicker_Pads_Bot.gbr]
+   Generated File[Kicker_Pads_Top.gbr]
+   Generated File[Kicker_Legend_Top.gbr]
+   Generated File[Kicker_Legend_Bot.gbr]
+   Generated File[Kicker_Soldermask_Top.gbr]
+   Generated File[Kicker_Soldermask_Bot.gbr]
+   Generated File[Kicker_Paste_Top.gbr]
+   Generated File[Kicker_Paste_Bot.gbr]
+   Generated File[Kicker_Mechanical_1.gbr]
+   Generated File[Kicker_Top_3D_Body.gbr]
+   Generated File[Kicker_Top_Courtyard.gbr]
+   Generated File[Kicker_Top_Assembly.gbr]
+   Generated File[Kicker_Mechanical_13.gbr]
+   Generated File[Kicker_Mechanical_15.gbr]
+   Generated File[Kicker_Top_Component_Center.gbr]
+   Generated File[Kicker_Bottom_Assembly.gbr]
+   Generated File[Kicker_Bottom_Courtyard.gbr]
+   Generated File[Kicker_Bottom_3D_Body.gbr]
+   Generated File[Kicker_Bottom_Component_Center.gbr]
+   Generated File[Kicker_Profile.gbr]
+   Generated File[Kicker_NPTH_Drill.gbr]
+   Generated File[Kicker_PTH_Drill.gbr]
+   Generated File[Kicker_Drawing_1.gbr]
+   Generated File[Kicker_Drillmap_1.gbr]
+   Generated File[Kicker.EXTREP]
+   Generated File[Kicker.REP]
+
+
+Files Generated   : 28
+Documents Printed : 0
+
+Finished Output Generation At 23:12:57 On 20/05/2024
