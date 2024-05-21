@@ -1,28 +1,16 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\jogui\OneDrive\Área de Trabalho\SSL_HARDWARE\SSL_Project_2024\SSL_Motherboard_2024\MotherBoard.PcbDoc
 Date     : 20/05/2024
-Time     : 21:13:54
+Time     : 22:13:17
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
-   Violation between Clearance Constraint: (Collision < 0.2mm) Between Pad R4-2(-16.385mm,75.225mm) on Bottom Layer And Track (-16.223mm,75.35mm)(-14.625mm,76.948mm) on Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 0.2mm) Between Pad R4-2(-16.385mm,75.225mm) on Bottom Layer And Track (-16.223mm,75.35mm)(-8.6mm,75.35mm) on Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 0.2mm) Between Pad R4-2(-16.385mm,75.225mm) on Bottom Layer And Track (-16.26mm,75.35mm)(-16.223mm,75.35mm) on Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 0.2mm) Between Pad R4-2(-16.385mm,75.225mm) on Bottom Layer And Track (-16.385mm,75.225mm)(-16.26mm,75.35mm) on Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 0.2mm) Between Pad R6-2(95.325mm,110.31mm) on Bottom Layer And Track (95.325mm,110.31mm)(98.715mm,110.31mm) on Bottom Layer 
-Rule Violations :5
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-   Violation between Short-Circuit Constraint: Between Pad R4-2(-16.385mm,75.225mm) on Bottom Layer And Track (-16.223mm,75.35mm)(-14.625mm,76.948mm) on Bottom Layer Location : [X = 33.803mm][Y = 83.027mm]
-   Violation between Short-Circuit Constraint: Between Pad R4-2(-16.385mm,75.225mm) on Bottom Layer And Track (-16.223mm,75.35mm)(-8.6mm,75.35mm) on Bottom Layer Location : [X = 33.803mm][Y = 82.9mm]
-   Violation between Short-Circuit Constraint: Between Pad R4-2(-16.385mm,75.225mm) on Bottom Layer And Track (-16.26mm,75.35mm)(-16.223mm,75.35mm) on Bottom Layer Location : [X = 33.659mm][Y = 82.9mm]
-   Violation between Short-Circuit Constraint: Between Pad R4-2(-16.385mm,75.225mm) on Bottom Layer And Track (-16.385mm,75.225mm)(-16.26mm,75.35mm) on Bottom Layer Location : [X = 33.578mm][Y = 82.837mm]
-   Violation between Short-Circuit Constraint: Between Pad R6-2(95.325mm,110.31mm) on Bottom Layer And Track (95.325mm,110.31mm)(98.715mm,110.31mm) on Bottom Layer Location : [X = 145.414mm][Y = 117.86mm]
-Rule Violations :5
+Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad R4-2(-16.385mm,75.225mm) on Bottom Layer And Track (-11.025mm,71.45mm)(-11.025mm,73.475mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net 5V Between Pad R6-2(95.325mm,110.31mm) on Bottom Layer And Via (104.175mm,110.5mm) from Top Layer to Bottom Layer 
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -43,26 +31,26 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.15mm) Between Pad LED1-2(37.175mm,156mm) on Top Layer And Text "LED1" (32.811mm,155.113mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.15mm) Between Pad LED1-4(35.275mm,156mm) on Top Layer And Text "LED1" (32.811mm,155.113mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.15mm) Between Pad LED1-6(33.375mm,156mm) on Top Layer And Text "LED1" (32.811mm,155.113mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-Rule Violations :3
+Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
    Violation between Silk To Silk Clearance Constraint: (0.077mm < 0.254mm) Between Text "3.3V DC Converter" (-13.675mm,72.113mm) on Bottom Overlay And Track (-23.899mm,73.575mm)(-23.201mm,73.575mm) on Bottom Overlay Silk Text to Silk Clearance [0.077mm]
    Violation between Silk To Silk Clearance Constraint: (0.023mm < 0.254mm) Between Text "C2" (-19.892mm,61.05mm) on Bottom Overlay And Track (-23.75mm,62.3mm)(-16.25mm,62.3mm) on Bottom Overlay Silk Text to Silk Clearance [0.023mm]
-   Violation between Silk To Silk Clearance Constraint: (0.141mm < 0.254mm) Between Text "C9" (111.383mm,115.325mm) on Bottom Overlay And Track (106.45mm,121.65mm)(111.775mm,116.325mm) on Bottom Overlay Silk Text to Silk Clearance [0.141mm]
-   Violation between Silk To Silk Clearance Constraint: (0.172mm < 0.254mm) Between Text "C9" (111.383mm,115.325mm) on Bottom Overlay And Track (111.775mm,116.325mm)(112.225mm,115.875mm) on Bottom Overlay Silk Text to Silk Clearance [0.172mm]
-Rule Violations :4
+Rule Violations :2
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-   Violation between Net Antennae: Track (95.325mm,110.31mm)(98.715mm,110.31mm) on Bottom Layer 
-Rule Violations :1
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Outline Edge): (0.797mm < 1mm) Between Arc (-47.203mm,95.153mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (0.797mm < 1mm) Between Arc (-47.203mm,95.153mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (0.837mm < 1mm) Between Arc (-47.203mm,95.153mm) on Top Overlay And Board Edge 
+Rule Violations :3
 
 Processing Rule : Height Constraint (Min=0mm) (Max=60mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 20
+Violations Detected : 5
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:03
